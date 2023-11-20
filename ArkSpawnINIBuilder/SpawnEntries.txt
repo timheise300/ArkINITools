@@ -1,0 +1,5531 @@
+The Island
+DinoSpawnEntriesArcha_C
+1,Archaeopteryx,100%
+DinoSpawnEntriesBeach_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCave1_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave2,LowSpiderScorp_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+1,Onyc,1,3,100%,75%,50%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave5_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave7,Fliers_C
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCaveIceWater_C
+0.8,Sabertooth Salmon,1,2,100%,50%
+0.2,Anglerfish,1,2,100%,50%
+DinoSpawnEntriesCaveLava_C
+0.33,Dilophosaur,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.33,Onyc,1,2,100%,75%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesCaveTek_Easy_11_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Easy_12_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Easy_13_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Easy_14_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Easy_15_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Easy_16_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Hard_11_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Hard_12_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Hard_13_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+100,Giganotosaurus,100%
+DinoSpawnEntriesCaveTek_Hard_14_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Hard_15_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+100,Giganotosaurus,100%
+DinoSpawnEntriesCaveTek_Hard_16_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Medium_11_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Medium_12_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Medium_13_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Medium_14_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Medium_15_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+100,Giganotosaurus,100%
+DinoSpawnEntriesCaveTek_Medium_16_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveWater_C
+1,Piranha,2,4,100%,100%,50%,25%
+0.25,Sarco,100%
+DinoSpawnEntriesDamiensAtoll_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.075,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Ankylosaurus,1,3,100%,60%,30%
+0.125,Stegosaurus,1,2,100%,50%
+0.1,Brontosaurus,100%
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.125,Phiomia,100%
+DinoSpawnEntriesGigantTekCave_C
+1,Giganotosaurus,100%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGrassland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesIceCave_C
+0.42,Direwolf,1,3,100%,66.7%,33.3%
+0.25,Purlovia,1,2,100%,50%
+0.25,Polar Bear,1,2,100%,50%
+0.25,Yeti,100%
+DinoSpawnEntriesJungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesMonsterIsland_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesPenguins_C
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoods_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.025,Purlovia,100%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSnow_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSwampCaveWater_C
+0.125,Leech,1,2,100%,65%
+Diseased Leech,9%
+DinoSpawnEntriesSwampCave_C
+0.25,Meganeura,1,3,100%,80%,60%
+0.25,Araneo,1,2,100%,50%
+0.25,Arthropluera,1,2,100%,50%
+0.07,Achatina,2,4,100%,100%,75%,50%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.15,Titanoboa,100%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+DinoSpawnEntriesTinyCave_C
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+DinoSpawnEntriesUnderwaterGround_C
+0.42,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.25,Onyc,1,2,100%,50%
+0.25,Achatina,1,2,100%,50%
+0.25,Dung Beetle,100%
+0.25,Araneo,1,2,100%,50%
+DinoSpawnEntriesUnicorn_C
+1,Unicorn,100%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_DarkWaterAngler_C
+0.9,Anglerfish,1,2,100%,50%
+0.8,Electrophorus,2,6,100%,100%,70%,50%,40%,30%
+0.125,Dunkleosteus,100%
+1.2,Eurypterid,4,100%,100%,100%,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1.25,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_DarkWater_C
+1,Plesiosaur,2,100%,100%
+DinoSpawnEntries_DarkWater_Lio_C
+1,Liopleurodon,100%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Mosa_Caves_C
+1,Mosasaur,100%
+DinoSpawnEntries_DarkWater_Plesia_C
+1,Plesiosaur,100%
+1,Tusoteuthis,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_DeepWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_InlandWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.255,Piranha,100%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+0.033,Otter,1,2,100%,35%
+DinoSpawnEntries_OceanCaveHard_C
+0.3,Megalodon,100%
+0.2,Dunkleosteus,100%
+0.33,Anglerfish,1,2,100%,50%
+0.3,Manta,1,2,100%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.38,Piranha,5,100%,100%,100%,100%,100%
+0.35,Eurypterid,1,2,100%,50%
+1,Cnidaria,100%
+0.6,Electrophorus,2,100%,100%
+DinoSpawnEntries_OceanCaveMedium_C
+0.385,Megalodon,100%
+1,Coelacanth,3,100%,100%,100%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.385,Cnidaria,100%
+1,Sabertooth Salmon,3,100%,100%,100%
+0.11,Electrophorus,6,100%,100%,100%,100%,100%,100%
+0.52,Ammonite,4,100%,100%,100%,100%
+0.385,Mosasaurus,100%
+DinoSpawnEntries_Ocean_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.04,Leedsichthys,100%
+DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+DinoSpawnEntries_ShallowWater_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Sarco,100%
+0.1,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+
+The Center
+CustomAnglerSpawner_C
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+1.0,Eurypterid,100%
+0.5,Dunkleosteus,100%
+2.0,Cnidaria,1,7,100%,75%,65%,55%,45%,35%,25%
+0.725,Ammonite,2,4,100%,100%,85%,65%
+0.25,Electrophorus,2,4,100%,100%,85%,75%
+CustomPenguinSpawner_C
+0.5,Kairuku,3,5,100%,100%,100%,60%,40%
+GrasslandsUnderArea_WaterSpawn_C
+1.0,Coelacanth,1,4,100%,50%,30%,10%
+0.5,Sabertooth Salmon,1,2,100%,50%
+IceCaveWater_Spawner_C
+0.2,Kairuku,1,4,100%,100%,100%,60%,40%
+0.2,Piranha,1,3,100%,60%,30%
+IceCave_Spawner_C
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.3,Sabertooth,1,2,100%,50%
+0.4,Direwolf,1,3,100%,60%,30%
+0.3,Yeti,1,2,100%,50%
+LavaBeach_Spawn_C
+0.025,Raptor,0,3,50%,30%,10%
+0.02,Carnotaurus,80%
+0.02,Pulmonoscorpius,0,2,40%,20%
+0.025,Rex,30%
+LavaWater_Spawn_C
+0.36,Piranha,1,4,100%,80%,60%,30%
+0.049,Spino,100%
+Lava_Spawn_C
+0.03,Raptor,0,3,50%,25%,10%
+0.02,Carnotaurus,80%
+0.03,Pulmonoscorpius,0,2,30%,10%
+0.025,Rex,35%
+0.02,Argentavis,40%
+0.02,Direwolf,0,3,50%,40%,30%
+0.02,Sabertooth,0,2,50%,40%
+Lava_Upper_Spawn_C
+0.02,Carnotaurus,40%
+0.05,Rex,100%
+0.035,Argentavis,80%
+0.02,Direwolf,0,2,40%,20%
+0.03,Sabertooth,0,2,80%,40%
+MiniCaveBearSpawner_C
+1.0,Direbear,1,2,100%,75%
+SnowGrasslandsUnderArea_Spawn_C
+0.4,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.4,Mammoth,1,3,100%,80%,40%
+0.15,Argentavis,0,2,50%,20%
+0.05,Gigantopithecus,5%
+1.0,Woolly Rhino,1,3,100%,30%,10%
+1.0,Direbear,1,2,100%,40%
+1.0,Procoptodon,100%
+SnowGrasslands_Spawn_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.4,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.4,Mammoth,1,3,100%,80%,40%
+0.07,Sabertooth,0,2,80%,40%
+0.028,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,0,2,50%,20%
+0.05,Gigantopithecus,5%
+1.0,Woolly Rhino,1,3,100%,30%,10%
+SnowyMountain_Spawn_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.0375,Rex,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+1.0,Kairuku,1,3,100%,60%,20%
+UnderwaterCaveSpawn_C
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+0.2,Angler,1,2,100%,50%
+1.0,Eurypterid,100%
+0.15,Piranha,20%
+DinoSpawnEntriesArcha_C
+1,Archaeopteryx,100%
+DinoSpawnEntriesBeach_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCave1_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave5_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave5_Tough_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGrassland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesJungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesMonsterIsland_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoods_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.025,Purlovia,100%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSnow_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_DarkWater_C
+1,Plesiosaur,2,100%,100%
+DinoSpawnEntries_DarkWater_Lio_C
+1,Liopleurodon,100%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_DeepWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_GenericWater_C
+1,Coelacanth,1,4,100%,50%,30%,10%
+DinoSpawnEntries_InlandWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.255,Piranha,100%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+0.033,Otter,1,2,100%,35%
+DinoSpawnEntries_Ocean_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.04,Leedsichthys,100%
+DinoSpawnEntries_OceanUnderworld_C
+1,Coelacanth,3,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,1,3,100%,75%,35%
+DinoSpawnEntries_ShallowWater_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Sarco,100%
+0.1,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+
+Scorched Earth
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesPhoenix_C
+1,Phoenix,100%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+SE_DinoSpawnEntriesBadlands_C
+0.1,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.04,Terror Bird,1,2,100%,75%
+0.1,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.1,Vulture,1,3,100%,75%,50%
+0.035,Lymantria,1,2,100%,60%
+0.02,Morellatops,1,2,100%,60%
+0.08,Sabertooth,1,2,100%,75%
+0.03,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.055,Carnotaurus,1,2,100%,75%
+0.04,Arthropluera,1,2,100%,75%
+0.035,Ankylosaurus,1,2,100%,75%
+0.06,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,75%
+0.03,Rock Elemental,100%
+0.025,Troodon,3,4,100%,100%,100%,50%
+1,Thylacoleo,100%
+0.028,Daeodon,1,4,100%,55%,0%,0%
+0.05,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesCanyonCave_C
+0.15,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.15,Arthropluera,1,2,100%,75%
+0.15,Titanoboa,1,2,100%,75%
+0.15,Mantis,1,2,100%,60%
+0.15,Onyc,1,3,100%,66.7%,33.3%
+0.15,Araneo,1,2,100%,60%
+0.15,Rubble Golem,100%
+0.07,Achatina,1,3,100%,70%,35%
+SE_DinoSpawnEntriesCanyons_C
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.1,Terror Bird,1,2,100%,75%
+0.06,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.075,Sabertooth,1,2,100%,75%
+0.1,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.1,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,100%
+0.06,Morellatops,1,2,100%,75%
+0.022,Purlovia,100%
+0.029,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesDunes_C
+0.2,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.15,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.15,Vulture,2,4,100%,100%,50%,25%
+0.08,Arthropluera,1,2,100%,33.3%
+0.1,Titanoboa,1,2,100%,25%
+0.035,Mantis,2,3,100%,100%,50%
+0.04,Dung Beetle,1,2,100%,60%
+0.15,Oil Jug Bug,100%
+Water Jug Bug,100%
+SE_DinoSpawnEntriesEZMode_C
+0.075,Oil Jug Bug,1,3,100%,75%,50%
+0.075,Water Jug Bug,1,3,100%,75%,50%
+0.1,Doedicurus,1,2,100%,60%
+0.1,Morellatops,1,2,100%,60%
+0.07,Parasaur,1,2,100%,60%
+0.1,Lystrosaurus,1,2,100%,60%
+0.07,Ankylosaurus,1,2,100%,60%
+0.03,Procoptodon,1,2,100%,33%
+0.165,Jerboa,2,4,100%,100%,75%,50%
+0.06,Raptor,1,2,100%,75%
+SE_DinoSpawnEntriesGreenDesert_C
+0.075,Oil Jug Bug,1,3,100%,75%,50%
+0.075,Water Jug Bug,1,3,100%,75%,50%
+0.07,Terror Bird,1,3,100%,75%,50%
+0.05,Lymantria,1,2,100%,66.7%
+0.07,Doedicurus,1,2,100%,60%
+0.03,Paraceratherium,100%
+0.06,Gallimimus,100%
+0.15,Titanomyrma Drone,1,3,100%,90%,80%
+Titanomyrma Soldier,0,2,70%,60%
+0.09,Morellatops,1,2,100%,60%
+0.06,Sabertooth,1,2,100%,60%
+0.06,Lystrosaurus,1,2,100%,60%
+0.04,Ankylosaurus,1,2,100%,60%
+0.06,Direwolf,100%
+0.04,Procoptodon,1,2,100%,33%
+0.04,Thorny Dragon,1,2,100%,60%
+0.01,Rock Elemental,100%
+0.17,Jerboa,2,4,100%,100%,75%,50%
+0.0125,Archaeopteryx,1,2,100%,50%
+0.028,Pegomastax,1,3,100%,85%,75%
+0.036,Microraptor,3,5,100%,100%,100%,70%,40%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.03,Daeodon,2,4,100%,100%,70%,60%
+0.01,Megatherium,1,2,100%,50%
+SE_DinoSpawnEntriesMountainCave_C
+0.15,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.15,Mantis,1,2,100%,60%
+0.15,Onyc,1,3,100%,66.7%,33.3%
+0.15,Araneo,1,2,100%,60%
+0.15,Sabertooth,1,2,100%,75%
+0.15,Direwolf,2,100%,100%
+0.15,Rubble Golem,100%
+0.07,Achatina,1,3,100%,70%,35%
+SE_DinoSpawnEntriesMountain_C
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.08,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.15,Sabertooth,1,2,100%,75%
+0.125,Carnotaurus,1,2,100%,75%
+0.125,Argentavis,1,2,100%,25%
+0.0125,Tapejara,100%
+0.06,Ankylosaurus,1,2,100%,60%
+0.06,Lymantria,1,2,100%,66.7%
+0.1,Vulture,1,2,100%,60%
+0.1,Rock Elemental,100%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.025,Kentrosaurus,1,3,100%,70%,45%
+0.014,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.032,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesOasis_C
+0.065,Raptor,1,2,100%,75%
+0.05,Lymantria,1,2,100%,66.7%
+0.085,Procoptodon,100%
+0.15,Lystrosaurus,1,3,100%,90%,80%
+0.15,Morellatops,1,2,100%,60%
+0.15,Paraceratherium,100%
+0.15,Gallimimus,100%
+0.25,Jerboa,2,4,100%,100%,75%,50%
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.07,Moschops,1,2,100%,75%
+0.043,Pegomastax,1,3,100%,85%,75%
+0.025,Ovis,100%
+0.025,Iguanodon,100%
+SE_DinoSpawnEntriesRuinsCaveNoGolem_C
+0.15,Arthropluera,1,3,100%,66.7%,33.3%
+0.15,Mantis,1,2,100%,60%
+0.15,Onyc,1,3,100%,66.7%,33.3%
+0.15,Titanoboa,1,2,100%,75%
+0.07,Achatina,1,3,100%,70%,35%
+SE_DinoSpawnEntriesRuinsCave_C
+0.15,Arthropluera,1,3,100%,66.7%,33.3%
+0.15,Mantis,1,2,100%,60%
+0.15,Onyc,1,3,100%,66.7%,33.3%
+0.15,Titanoboa,1,2,100%,75%
+0.15,Rubble Golem,100%
+0.07,Achatina,1,3,100%,70%,35%
+SE_DinoSpawnEntriesSandworm_C
+0.15,Deathworm,100%
+SE_DinoSpawnEntriesWater_C
+0.15,Coelacanth,1,3,100%,80%,70%
+0.0375,Kaprosuchus,1,2,100%,33%
+SE_DinoSpawnEntriesWyvernTrench_C
+0.15,Titanoboa,1,2,100%,75%
+0.15,Mantis,1,2,100%,60%
+0.15,Araneo,1,2,100%,60%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.065,Dung Beetle,1,2,100%,60%
+0.1,Arthropluera,1,2,100%,75%
+SE_DinoSpawnEntriesWyvern_C
+0.33,Fire Wyvern,100%
+0.33,Lightning Wyvern,100%
+0.33,Poison Wyvern,100%
+SE_DinoSpawnEntries_RexSolo_C
+1,Rex,100%
+
+Ragnarok
+DinoSpawnEntriesArcha_C
+1,Archaeopteryx,100%
+DinoSpawnEntriesBeach_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCave1_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave2_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+DinoSpawnEntriesCave5_Tough_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesDamiensAtoll_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.075,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Ankylosaurus,1,3,100%,60%,30%
+0.125,Stegosaurus,1,2,100%,50%
+0.1,Brontosaurus,100%
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.125,Phiomia,100%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGrassland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesMonsterIsland_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesPenguins_C
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoods_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.025,Purlovia,100%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSnow_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+DinoSpawnEntriesTinyCave_C
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+DinoSpawnEntriesUnicorn_C
+1,Unicorn,100%
+DinoSpawnEntriesWater_C
+1,Coelacanth,1,5,100%,80%,60%,40%,20%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_DarkWaterAngler_C
+0.9,Anglerfish,1,2,100%,50%
+0.8,Electrophorus,2,6,100%,100%,70%,50%,40%,30%
+0.125,Dunkleosteus,100%
+1.2,Eurypterid,4,100%,100%,100%,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1.25,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_DarkWater_C
+1,Plesiosaur,2,100%,100%
+DinoSpawnEntries_DarkWater_Lio_C
+1,Liopleurodon,100%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_DeepWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_InlandWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.255,Piranha,100%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+0.033,Otter,1,2,100%,35%
+DinoSpawnEntries_Lobster_C
+1,Eurypterid,1,2,50%,100%
+DinoSpawnEntries_Ragnarok_Bear_C
+0.2,Dire Bear,1,2,100%,50%
+DinoSpawnEntries_Ragnarok_Castle_C
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.33,Onyc,1,2,100%,75%
+DinoSpawnEntries_Ragnarok_CenterWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+DinoSpawnEntries_Ragnarok_Center_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+DinoSpawnEntries_Ragnarok_DeepWater_C
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_Ragnarok_Golem_C
+0.1,Rock Elemental,100%
+DinoSpawnEntries_Ragnarok_Griffin_C
+0.33,Griffin,1,2,100%,10%
+DinoSpawnEntries_Ragnarok_Iceworm_C
+1,Iceworm Male,100%
+DinoSpawnEntries_Ragnarok_Jerboa_C
+0.25,Jerboa,2,4,100%,100%,75%,50%
+DinoSpawnEntries_Ragnarok_Jungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.15,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntries_Ragnarok_MonkeyIsland_C
+0.075,Jerboa,1,3,100%,75%,50%
+0.075,Dimorphodon,1,3,100%,45%,10%
+0.075,Dimetrodon,100%
+DinoSpawnEntries_Ragnarok_Mudslide_C
+0.125,Vulture,3,6,100%,100%,100%,50%,20%,20%
+DinoSpawnEntries_Ragnarok_Ocean_C
+0.385,Megalodon,100%
+0.385,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+DinoSpawnEntries_Ragnarok_PolarBear_C
+0.25,Dire Polar Bear,100%
+DinoSpawnEntries_Ragnarok_Scotland_C
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,0,3,20%,10%,5%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.0065,Ovis,4,8,100%,100%,100%,100%,50%,50%,50%,50%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntries_Ragnarok_SnowForest_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.15,Argentavis,1,2,100%,50%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.03,Yutyrannus,100%
+DinoSpawnEntries_Ragnarok_SnowPlains_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.22,Mammoth,1,3,100%,60%,30%
+0.067,Woolly Rhino,1,2,100%,30%
+DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+Ragnarok_DinoSpawnEntriesIceWyvern_C
+0.33,Ice Wyvern,100%
+SE_DinoSpawnEntriesBadlands_C
+0.1,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.04,Terror Bird,1,2,100%,75%
+0.1,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.1,Vulture,1,3,100%,75%,50%
+0.035,Lymantria,1,2,100%,60%
+0.02,Morellatops,1,2,100%,60%
+0.08,Sabertooth,1,2,100%,75%
+0.03,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.055,Carnotaurus,1,2,100%,75%
+0.04,Arthropluera,1,2,100%,75%
+0.035,Ankylosaurus,1,2,100%,75%
+0.06,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,75%
+0.03,Rock Elemental,100%
+0.025,Troodon,3,4,100%,100%,100%,50%
+1,Thylacoleo,100%
+0.028,Daeodon,1,4,100%,55%,0%,0%
+0.05,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesCanyons_C
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.1,Terror Bird,1,2,100%,75%
+0.06,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.075,Sabertooth,1,2,100%,75%
+0.1,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.1,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,100%
+0.06,Morellatops,1,2,100%,75%
+0.022,Purlovia,100%
+0.029,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesDunes_C
+0.2,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.15,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.15,Vulture,2,4,100%,100%,50%,25%
+0.08,Arthropluera,1,2,100%,33.3%
+0.1,Titanoboa,1,2,100%,25%
+0.035,Mantis,2,3,100%,100%,50%
+0.04,Dung Beetle,1,2,100%,60%
+0.15,Oil Jug Bug,100%
+Water Jug Bug,100%
+SE_DinoSpawnEntriesGreenDesert_C
+0.075,Oil Jug Bug,1,3,100%,75%,50%
+0.075,Water Jug Bug,1,3,100%,75%,50%
+0.07,Terror Bird,1,3,100%,75%,50%
+0.05,Lymantria,1,2,100%,66.7%
+0.07,Doedicurus,1,2,100%,60%
+0.03,Paraceratherium,100%
+0.06,Gallimimus,100%
+0.15,Titanomyrma Drone,1,3,100%,90%,80%
+Titanomyrma Soldier,0,2,70%,60%
+0.09,Morellatops,1,2,100%,60%
+0.06,Sabertooth,1,2,100%,60%
+0.06,Lystrosaurus,1,2,100%,60%
+0.04,Ankylosaurus,1,2,100%,60%
+0.06,Direwolf,100%
+0.04,Procoptodon,1,2,100%,33%
+0.04,Thorny Dragon,1,2,100%,60%
+0.01,Rock Elemental,100%
+0.17,Jerboa,2,4,100%,100%,75%,50%
+0.0125,Archaeopteryx,1,2,100%,50%
+0.028,Pegomastax,1,3,100%,85%,75%
+0.036,Microraptor,3,5,100%,100%,100%,70%,40%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.03,Daeodon,2,4,100%,100%,70%,60%
+0.01,Megatherium,1,2,100%,50%
+SE_DinoSpawnEntriesMountain_C
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.08,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.15,Sabertooth,1,2,100%,75%
+0.125,Carnotaurus,1,2,100%,75%
+0.125,Argentavis,1,2,100%,25%
+0.0125,Tapejara,100%
+0.06,Ankylosaurus,1,2,100%,60%
+0.06,Lymantria,1,2,100%,66.7%
+0.1,Vulture,1,2,100%,60%
+0.1,Rock Elemental,100%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.025,Kentrosaurus,1,3,100%,70%,45%
+0.014,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.032,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesOasis_C
+0.065,Raptor,1,2,100%,75%
+0.05,Lymantria,1,2,100%,66.7%
+0.085,Procoptodon,100%
+0.15,Lystrosaurus,1,3,100%,90%,80%
+0.15,Morellatops,1,2,100%,60%
+0.15,Paraceratherium,100%
+0.15,Gallimimus,100%
+0.25,Jerboa,2,4,100%,100%,75%,50%
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.07,Moschops,1,2,100%,75%
+0.043,Pegomastax,1,3,100%,85%,75%
+0.025,Ovis,100%
+0.025,Iguanodon,100%
+SE_DinoSpawnEntriesSandworm_C
+0.15,Deathworm,100%
+SE_DinoSpawnEntriesWyvernTrench_C
+0.15,Titanoboa,1,2,100%,75%
+0.15,Mantis,1,2,100%,60%
+0.15,Araneo,1,2,100%,60%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.065,Dung Beetle,1,2,100%,60%
+0.1,Arthropluera,1,2,100%,75%
+SE_DinoSpawnEntriesWyvern_C
+0.33,Fire Wyvern,100%
+0.33,Lightning Wyvern,100%
+0.33,Poison Wyvern,100%
+
+Aberration
+AB_DinoSpawnEntriesRockDrake_C
+0.33,Rock Drake,100%
+AB_DinoSpawnEntries_Basilisks_C
+1,Basilisk,100%
+AB_DinoSpawnEntries_BioLumCave_C
+0.1,Seeker,100%
+0.15,Aberrant Titanoboa,100%
+0.05,Aberrant Pulmonoscorpius,1,2,100%,75%
+0.075,Aberrant Achatina,100%
+0.22,Glowbug,1,3,100%,50%,25%
+0.008,Aberrant Arthropluera,100%
+0.04,Aberrant Dung Beetle,100%
+AB_DinoSpawnEntries_DrakeTrench_C
+0.08,Glowbug,1,3,100%,66.7%,33.3%
+0.012,Aberrant Pulmonoscorpius,100%
+0.016,Seeker,1,2,100%,75%
+0.07,Aberrant Araneo,1,3,100%,75%,50%
+0.07,Karkinos,1,2,100%,50%
+0.07,Aberrant Titanoboa,1,2,100%,75%
+0.055,Aberrant Dimorphodon,1,2,100%,75%
+0.11,Aberrant Meganeura,0,2,8%,75%
+0.08,Glowtail,100%
+AB_DinoSpawnEntries_ElementCave_C
+0.08,Glowbug,1,3,100%,66.7%,33.3%
+0.012,Aberrant Pulmonoscorpius,100%
+0.07,Seeker,1,3,100%,75%,50%
+0.07,Aberrant Carnotaurus,1,2,100%,50%
+0.07,Aberrant Arthropluera,1,2,100%,75%
+0.08,Aberrant Megalosaurus,1,2,100%,75%
+0.1,Featherlight,100%
+0.04,Aberrant Dung Beetle,100%
+AB_DinoSpawnEntries_ElementWater_C
+0.5,Aberrant Cnidaria,100%
+0.1,Lamprey,2,3,100%,100%,85%
+AB_DinoSpawnEntries_ElementalChamber_C
+0.08,Glowbug,1,3,100%,66.7%,33.3%
+0.012,Aberrant Pulmonoscorpius,100%
+0.07,Seeker,1,3,100%,75%,50%
+0.07,Aberrant Carnotaurus,1,2,100%,50%
+0.07,Aberrant Arthropluera,1,2,100%,75%
+0.055,Aberrant Purlovia,1,2,100%,75%
+0.067,Rock Drake,1,2,100%,50%
+0.08,Aberrant Megalosaurus,1,2,100%,75%
+0.1,Aberrant Spino,100%
+0.1,Featherlight,100%
+0.04,Aberrant Dung Beetle,1,2,100%,75%
+AB_DinoSpawnEntries_FertileCave_C
+0.07,Aberrant Carnotaurus,100%
+0.06,Aberrant Meganeura,1,2,100%,66%
+0.05,Aberrant Arthropluera,1,2,100%,50%
+0.07,Aberrant Raptor,1,3,100%,75%,50%
+0.1,Ravager,1,3,100%,75%,50%
+0.08,Glowtail,1,2,100%,75%
+0.08,Aberrant Pulmonoscorpius,1,2,100%,75%
+0.005,Seeker,100%
+AB_DinoSpawnEntries_OctoBat_C
+1,Seeker,100%
+AB_DinoSpawnEntries_RockDrake_C
+1,Rock Drake,100%
+AB_DinoSpawnEntries_TwitchBioLand_C
+0.15,Aberrant Titanoboa,100%
+0.2,Aberrant Lystrosaurus,1,2,100%,50%
+0.085,Aberrant Iguanodon,100%
+0.075,Aberrant Achatina,100%
+0.04,Aberrant Arthropluera,1,2,100%,75%
+1,Aberrant Megalosaurus,100%
+0.22,Glowbug,1,3,100%,50%,25%
+0.075,Shinehorn,100%
+0.04,Aberrant Ankylosaurus,1,2,100%,75%
+0.075,Roll Rat,100%
+0.04,Aberrant Dung Beetle,1,2,100%,75%
+0.085,Ravager,1,4,100%,80%,60%,40%
+0.01,Rock Drake,2,100%,100%
+0.09,Aberrant Gigantopithecus,100%
+AB_DinoSpawnEntries_TwitchBioWater_C
+0.2,Aberrant Beelzebufo,100%
+0.5,Aberrant Cnidaria,100%
+0.8,Aberrant Electrophorus,100%
+0.04,Aberrant Baryonyx,100%
+0.9,Aberrant Anglerfish,1,2,100%,50%
+0.09,Aberrant Diplocaulus,100%
+0.35,Aberrant Trilobite,5,100%,100%,100%,100%,100%
+0.09,Aberrant Dimetrodon,100%
+0.09,Karkinos,100%
+0.1,Lamprey,2,3,100%,100%,85%
+0.09,Aberrant Sarco,100%
+0.45,Aberrant Sabertooth Salmon,2,3,100%,100%,85%
+AB_DinoSpawnEntries_TwitchFertileLandEasy_C
+0.1,Aberrant Paraceratherium,100%
+0.075,Aberrant Stegosaurus,1,3,100%,66.7%,33.3%
+0.025,Aberrant Triceratops,1,3,100%,66.7%,33.3%
+0.085,Aberrant Raptor,1,4,100%,80%,60%,40%
+0.07,Aberrant Moschops,1,2,100%,75%
+0.125,Aberrant Parasaur,1,3,100%,66.7%,33.3%
+0.032,Aberrant Diplodocus,100%
+0.425,Aberrant Dodo,1,5,100%,70%,60%,25%,20%
+0.085,Aberrant Iguanodon,100%
+0.0275,Aberrant Equus,1,4,100%,80%,60%,45%
+0.2,Aberrant Lystrosaurus,1,2,100%,50%
+0.24,Bulbdog,1,2,100%,50%
+0.22,Glowbug,1,3,100%,50%,25%
+0.09,Aberrant Carbonemys,100%
+0.09,Aberrant Doedicurus,100%
+0.09,Aberrant Ovis,100%
+AB_DinoSpawnEntries_TwitchFertileLand_C
+0.1,Aberrant Paraceratherium,100%
+0.075,Aberrant Stegosaurus,1,3,100%,66.7%,33.3%
+0.025,Aberrant Triceratops,1,3,100%,66.7%,33.3%
+0.085,Aberrant Raptor,1,4,100%,80%,60%,40%
+0.06,Aberrant Carnotaurus,100%
+0.07,Aberrant Moschops,1,2,100%,75%
+0.125,Aberrant Parasaur,1,3,100%,66.7%,33.3%
+0.032,Aberrant Diplodocus,100%
+0.425,Aberrant Dodo,1,5,100%,70%,60%,25%,20%
+0.15,Aberrant Meganeura,4,100%,100%,100%,100%
+0.085,Aberrant Iguanodon,100%
+0.0275,Aberrant Equus,1,4,100%,80%,60%,45%
+0.2,Aberrant Lystrosaurus,1,2,100%,50%
+0.15,Aberrant Pulmonoscorpius,1,3,100%,60%,30%
+0.26,Bulbdog,1,2,100%,50%
+0.22,Glowbug,1,3,100%,50%,25%
+0.09,Aberrant Carbonemys,100%
+0.085,Ravager,1,4,100%,80%,60%,40%
+0.09,Roll Rat,100%
+0.09,Aberrant Doedicurus,100%
+0.09,Aberrant Ovis,100%
+0.09,Aberrant Dire Bear,100%
+AB_DinoSpawnEntries_TwitchFertileWaterCave3_C
+0.25,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.25,Aberrant Piranha,2,4,100%,100%,75%,37.5%
+0.4,Aberrant Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.1,Aberrant Sarco,100%
+0.049,Aberrant Electrophorus,100%
+0.033,Aberrant Otter,1,2,100%,35%
+0.09,Karkinos,100%
+0.09,Aberrant Cnidaria,100%
+AB_DinoSpawnEntries_TwitchFertileWaterEasy_C
+0.25,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.033,Aberrant Otter,1,2,100%,35%
+0.35,Aberrant Trilobite,5,100%,100%,100%,100%,100%
+AB_DinoSpawnEntries_TwitchFertileWater_C
+0.3,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.25,Aberrant Piranha,2,4,100%,100%,75%,37.5%
+0.07,Aberrant Sarco,100%
+0.049,Aberrant Spino,100%
+0.033,Aberrant Otter,1,2,100%,35%
+0.033,Karkinos,100%
+0.09,Aberrant Manta,100%
+AB_DinoSpawnEntries_XenoQueens_C
+1,Reaper Queen,100%
+AB_DinoSpawnEntries_Xenos_C
+1,Surface Reaper King,100%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesChupa_C
+1,Nameless,100%
+SE_DinoSpawnEntries_ChupaCabraSurface_C
+0.065,Nameless,100%
+
+Extinction
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCaveTek_Hard_11_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Hard_12_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesCaveTek_Hard_C
+0.33,Rex,100%
+0.42,Allosaurus,2,100%,100%
+Kaprosuchus,100%
+Microraptor,2,100%,100%
+0.25,Therizinosaur,2,100%,100%
+Terror Bird,3,100%,100%,100%
+0.33,Baryonyx,100%
+Dilophosaur,100%
+Arthropluera,2,100%,100%
+0.33,Megalosaurus,100%
+Purlovia,3,100%,100%,100%
+0.33,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesIceCave_C
+0.42,Direwolf,1,3,100%,66.7%,33.3%
+0.25,Purlovia,1,2,100%,50%
+0.25,Polar Bear,1,2,100%,50%
+0.25,Yeti,100%
+DinoSpawnEntriesQuetz_EX_C
+1,Quetzal,100%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_CityCenter_C
+0.425,Dodo,1,2,100%,70%
+0.125,Parasaur,100%
+0.1,Triceratops,1,2,100%,50%
+0.085,Megaloceros,0,2,80%,50%
+0.15,Pteranodon,20%
+0.2,Dilophosaur,1,3,100%,50%,20%
+0.05,Oviraptor,70%
+0.22,Carbonemys,80%
+0.065,Compy,0,2,70%,70%
+0.2,Lystrosaurus,70%
+0.07,Moschops,60%
+0.1333,Scout,1,3,100%,40%,10%
+0.185,Defense Unit,1,2,100%,70%
+0.333,Enforcer,100%
+0.1,Meganeura,0,2,90%,40%
+0.1,Titanomyrma Drone,0,3,40%,20%,10%
+Titanomyrma Soldier,0,2,80%,80%
+0.1,Ichthyornis,0,2,60%,20%
+0.125,Ankylosaurus,0,2,89%,40%
+0.125,Stegosaurus,0,2,80%,41%
+0.1,Phiomia,50%
+0.1,Archaeopteryx,70%
+0.1,Iguanodon,0,2,70%,40%
+0.1,Mesopithecus,0,2,50%,30%
+0.1,Dung Beetle,30%
+0.1,Achatina,0,2,50%,30%
+0.15,Tapejara,20%
+0.15,Megatherium,50%
+DinoSpawnEntries_CityCenter_DangerClose_C
+0.425,Dodo,0,2,80%,12%
+0.125,Raptor,1,3,100%,80%,75%
+0.1,Triceratops,0,2,90%,20%
+0.085,Megaloceros,46%
+0.15,Pteranodon,20%
+0.2,Dilophosaur,1,2,100%,67%
+0.05,Oviraptor,67%
+0.22,Carbonemys,69%
+0.065,Compy,0,2,60%,40%
+0.2,Lystrosaurus,0,2,60%,20%
+0.07,Moschops,0,2,70%,20%
+0.1333,Scout,1,3,100%,60%,30%
+0.185,Defense Unit,80%
+0.3333,Enforcer,90%
+0.1,Meganeura,1,2,100%,30%
+0.1,Meganeura,0,2,70%,20%
+0.1,Titanomyrma Drone,50%
+Titanomyrma Soldier,50%
+0.125,Araneo,2,100%,100%
+0.125,Pulmonoscorpius,1,2,100%,70%
+0.125,Hyaenodon,1,3,100%,60%,45%
+0.05,Carnotaurus,1,2,100%,60%
+0.05,Terror Bird,1,2,100%,60%
+0.15,Tapejara,20%
+DinoSpawnEntries_CityObelisk_C
+0.425,Dodo,0,2,70%,50%
+0.125,Parasaur,50%
+0.1,Triceratops,1,2,100%,50%
+0.085,Megaloceros,100%
+0.15,Pteranodon,100%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.1333,Scout,1,3,100%,60%,30%
+0.185,Defense Unit,1,2,100%,75%
+0.3333,Enforcer,80%
+0.125,Ankylosaurus,1,2,100%,50%
+0.125,Stegosaurus,1,2,100%,50%
+0.075,Kentrosaurus,0,3,80%,50%,20%
+0.06,Pachy,70%
+0.075,Doedicurus,80%
+0.036,Carnotaurus,0,2,70%,25%
+0.15,Argentavis,81%
+0.15,Pulmonoscorpius,0,2,80%,40%
+0.03,Rex,0,2,82%,60%
+0.15,Sabertooth,0,2,80%,40%
+0.05,Raptor,3,100%,100%,100%
+DinoSpawnEntries_CityTier2_Building_C
+0.15,Pteranodon,100%
+0.13333,Scout,1,3,100%,50%,10%
+0.3333,Enforcer,100%
+0.1,Archaeopteryx,70%
+0.15,Tapejara,80%
+0.15,Araneo,1,2,100%,70%
+DinoSpawnEntries_CityTier2_Building_DangerClose_C
+0.15,Pteranodon,100%
+0.1333,Scout,1,3,100%,50%,10%
+0.333,Enforcer,100%
+0.1,Archaeopteryx,70%
+0.15,Tapejara,80%
+0.15,Araneo,1,2,100%,70%
+0.15,Carnotaurus,50%
+0.25,Dilophosaur,50%
+0.1,Argentavis,50%
+0.1,Microraptor,50%
+DinoSpawnEntries_CityTier2_Fliers_C
+0.15,Pteranodon,100%
+0.1333,Scout,1,3,100%,40%,10%
+0.333,Enforcer,100%
+0.1,Archaeopteryx,70%
+0.15,Tapejara,100%
+DinoSpawnEntries_City_Park2_C
+0.425,Dodo,1,2,100%,70%
+0.125,Parasaur,100%
+0.1,Triceratops,1,2,100%,50%
+0.085,Megaloceros,0,2,50%,50%
+0.15,Pteranodon,100%
+0.2,Dilophosaur,1,3,100%,67%,10%
+0.05,Oviraptor,70%
+0.22,Carbonemys,80%
+0.065,Compy,0,2,80%,70%
+0.1333,Scout,1,3,100%,40%,10%
+0.185,Defense Unit,1,2,100%,50%
+0.333,Enforcer,100%
+0.1,Meganeura,0,2,80%,40%
+0.1,Titanomyrma Drone,0,3,40%,20%,10%
+Titanomyrma Soldier,0,2,80%,80%
+0.1,Ichthyornis,0,2,800%,20%
+0.125,Ankylosaurus,0,2,89%,40%
+0.125,Stegosaurus,0,2,80%,41%
+0.0275,Equus,1,4,100%,80%,60%,45%
+0.04,Microraptor,1,5,100%,40%,30%,30%,20%
+0.0125,Ovis,1,2,100%,45%
+0.075,Pachyrhinosaurus,0,4,90%,70%,45%,25%
+0.1,Gallimimus,1,2,100%,75.6%
+0.032,Diplodocus,80%
+0.1,Phiomia,90%
+0.05,Rex,40%
+0.1,Brontosaurus,78%
+0.085,Raptor,0,3,93%,40%,30%
+DinoSpawnEntries_City_Trench_C
+0.3,Megalosaurus,1,2,100%,80%
+0.3,Megalania,1,4,100%,80%,50%,30%
+0.3,Sarco,0,2,50%,50%
+0.3,Beelzebufo,0,2,50%,50%
+0.3,Kaprosuchus,0,2,50%,50%
+DinoSpawnEntries_ParkWater2_C
+0.6,Coelacanth,1,4,100%,80%,60%,40%
+0.075,Otter,1,2,100%,35%
+0.04,Baryonyx,100%
+0.09,Diplocaulus,100%
+0.09,Dimetrodon,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.1,Sarco,100%
+0.2,Beelzebufo,100%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.4,Sabertooth Salmon,1,5,100%,80%,60%,40%,30%
+DinoSpawnEntries_ParkWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+0.1,Sarco,100%
+0.2,Beelzebufo,100%
+0.08,Kaprosuchus,1,2,100%,45%
+DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+DinoSpawnEntries_Wasteland_City_Buffer_1_C
+0.3,Corrupted Dilophosaur,0,4,30%,20%,10%,10%
+0.125,Corrupted Stegosaurus,0,2,30%,10%
+0.1,Corrupted Triceratops,0,2,30%,10%
+0.075,Corrupted Raptor,0,3,30%,20%,10%
+0.2,Corrupted Pteranodon,0,2,30%,20%
+0.06,Ankylosaurus,0,2,60%,60%
+0.08,Stegosaurus,1,3,100%,80%,40%
+0.03,Carnotaurus,80%
+0.04,Raptor,0,3,70%,70%,40%
+0.125,Pulmonoscorpius,0,3,70%,70%,50%
+0.125,Araneo,0,3,50%,50%,50%
+0.185,Titanoboa,0,2,50%,20%
+DinoSpawnEntries_Wasteland_City_Buffer_2_C
+0.3,Corrupted Dilophosaur,0,4,30%,20%,10%,10%
+0.125,Corrupted Stegosaurus,0,2,30%,10%
+0.1,Corrupted Triceratops,0,2,30%,10%
+0.075,Corrupted Raptor,0,3,30%,20%,10%
+0.2,Corrupted Pteranodon,0,2,30%,20%
+0.06,Ankylosaurus,0,2,60%,60%
+0.08,Stegosaurus,1,3,100%,80%,40%
+0.03,Carnotaurus,80%
+0.04,Raptor,0,3,70%,70%,40%
+0.185,Defense Unit,70%
+0.1,Scout,64%
+0.125,Pulmonoscorpius,0,3,70%,70%,50%
+0.125,Araneo,0,3,50%,50%,50%
+0.185,Titanoboa,0,2,50%,20%
+DinoSpawnEntries_Wasteland_DesertBuffer_C
+0.3,Dilophosaur,1,4,100%,50%,40%,30%
+0.125,Morellatops,0,2,80%,70%
+0.1,Direwolf,0,2,70%,70%
+0.075,Pteranodon,0,2,70%,70%
+0.2,Corrupted Pteranodon,100%
+0.08,Stegosaurus,1,2,100%,80%
+0.03,Carnotaurus,100%
+0.04,Raptor,1,3,100%,70%,40%
+0.06,Gasbags,80%
+0.125,Pulmonoscorpius,0,2,70%,70%
+0.125,Triceratops,1,2,100%,40%
+DinoSpawnEntries_Wasteland_Easy_C
+0.3,Corrupted Dilophosaur,1,4,100%,70%,60%,25%
+0.125,Corrupted Stegosaurus,1,2,100%,50%
+0.1,Corrupted Triceratops,1,2,100%,50%
+0.075,Corrupted Raptor,1,3,100%,70%,50%
+0.01,Corrupted Chalicotherium,1,2,100%,35%
+0.2,Corrupted Pteranodon,1,2,100%,35%
+0.06,Ankylosaurus,1,2,100%,60%
+0.08,Stegosaurus,1,3,100%,80%,40%
+0.03,Carnotaurus,100%
+0.04,Raptor,1,3,100%,70%,40%
+0.06,Gasbags,100%
+DinoSpawnEntries_Wasteland_ForbiddenZone_C
+0.3,Corrupted Giganotosaurus,0,2,50%,20%
+0.125,Corrupted Rex,1,2,100%,80%
+0.075,Corrupted Raptor,3,100%,100%,100%
+0.01,Corrupted Chalicotherium,3,100%,100%,100%
+0.2,Corrupted Wyvern,40%
+0.03,Corrupted Carnotaurus,100%
+DinoSpawnEntries_Wasteland_Hard_C
+0.3,Corrupted Raptor,1,4,100%,70%,60%,25%
+0.2,Corrupted Paraceratherium,1,2,100%,50%
+0.06,Corrupted Wyvern,1,2,100%,50%
+0.075,Corrupted Rock Drake,1,3,100%,70%,50%
+0.02,Corrupted Reaper King,100%
+0.2,Corrupted Rex,100%
+Corrupted Spino,30%
+0.02,Rex,100%
+0.03,Spino,100%
+0.04,Brontosaurus,2,100%,100%
+DinoSpawnEntries_Wasteland_Medium_C
+0.3,Corrupted Stegosaurus,1,4,100%,70%,60%,25%
+0.125,Corrupted Paraceratherium,100%
+0.18,Corrupted Raptor,1,4,100%,80%,60%,30%
+0.075,Corrupted Spino,100%
+0.1,Corrupted Arthropluera,1,2,100%,35%
+0.2,Corrupted Rex,100%
+0.01,Corrupted Giganotosaurus,100%
+0.08,Dire Bear,100%
+0.03,Therizinosaur,100%
+0.06,Thylacoleo,100%
+0.03,Gasbags,100%
+0.03,Tapejara,100%
+DinoSpawnEntries_Wasteland_NorthCraterForest_C
+0.3,Corrupted Dilophosaur,1,4,100%,20%,10%,10%
+0.125,Corrupted Stegosaurus,1,2,100%,50%
+0.1,Corrupted Triceratops,1,2,100%,30%
+0.01,Chalicotherium,1,2,100%,50%
+0.01,Corrupted Chalicotherium,1,2,100%,35%
+0.2,Corrupted Pteranodon,1,2,100%,35%
+0.06,Ankylosaurus,1,3,100%,60%,50%
+0.08,Stegosaurus,1,3,100%,80%,40%
+0.03,Rex,0,2,70%,50%
+0.2,Pteranodon,1,2,100%,40%
+0.03,Rex,30%
+0.01,Corrupted Rock Drake,0,2,70%,50%
+0.1,Triceratops,1,2,100%,50%
+0.03,Argentavis,0,2,70%,70%
+0.03,Therizinosaur,64.5%
+0.03,Thylacoleo,0,2,64.5%,50%
+0.03,Sabertooth,0,2,70%,70%
+0.01,Corrupted Reaper King,1,2,100%,70%
+DinoSpawnEntries_Wasteland_North_C
+0.3,Corrupted Dilophosaur,1,4,100%,20%,10%,10%
+0.125,Corrupted Stegosaurus,1,2,100%,50%
+0.1,Corrupted Triceratops,1,2,100%,30%
+0.01,Chalicotherium,1,2,100%,50%
+0.01,Corrupted Chalicotherium,1,3,100%,50%,35%
+0.2,Corrupted Pteranodon,1,2,100%,35%
+0.06,Ankylosaurus,1,3,100%,60%,50%
+0.08,Stegosaurus,1,3,100%,80%,40%
+0.03,Rex,50%
+0.2,Pteranodon,0,2,60%,40%
+0.06,Gasbags,1,2,100%,60%
+0.03,Corrupted Rex,0,2,67%,50%
+0.01,Corrupted Rock Drake,0,2,50%,30%
+0.1,Triceratops,1,2,100%,50%
+0.03,Argentavis,64.5%
+0.03,Therizinosaur,64.5%
+0.03,Thylacoleo,64.5%
+0.03,Sabertooth,0,2,64.5%,64.5%
+0.06,Dodo,0,2,40%,40%
+0.185,Dire Bear,1,3,100%,70%,40%
+0.03,Corrupted Giganotosaurus,20%
+DinoSpawnEntries_Wasteland_OilFields_C
+0.3,Corrupted Dilophosaur,1,4,100%,70%,50%,50%
+0.125,Corrupted Spino,1,2,100%,30%
+0.125,Spino,0,2,80%,76%
+0.075,Arthropluera,1,3,100%,70%,50%
+0.075,Corrupted Arthropluera,1,2,100%,40%
+0.2,Corrupted Pteranodon,1,3,100%,50%,30%
+0.06,Corrupted Paraceratherium,1,2,100%,60%
+0.06,Paraceratherium,1,2,100%,80%
+0.03,Carnotaurus,1,3,100%,70%,60%
+0.04,Brontosaurus,0,3,80%,80%,70%
+0.06,Gasbags,2,100%,100%
+0.06,Titanoboa,1,3,100%,70%,60%
+0.03,Corrupted Carnotaurus,1,3,100%,70%,60%
+0.03,Corrupted Chalicotherium,0,2,80%,70%
+0.06,Corrupted Stegosaurus,1,2,100%,70%
+0.06,Stegosaurus,1,2,100%,70%
+DinoSpawnEntries_Wasteland_OilFields_Fliers_C
+0.3,Corrupted Dilophosaur,0,4,50%,50%,20%,10%
+0.3,Corrupted Pteranodon,1,4,100%,80%,80%,70%
+0.3,Gasbags,0,2,50%,30%
+DinoSpawnEntries_Wasteland_SnowBuffer_C
+0.3,Megaloceros,1,4,100%,90%,40%,30%
+0.125,Ankylosaurus,0,2,80%,70%
+0.1,Direwolf,0,2,70%,70%
+0.075,Argentavis,0,2,70%,70%
+0.2,Corrupted Pteranodon,100%
+0.08,Stegosaurus,1,2,100%,80%
+0.03,Yutyrannus,75.6%
+0.04,Dire Bear,1,3,100%,70%,40%
+0.06,Rex,80%
+0.125,Chalicotherium,0,2,70%,70%
+0.125,Giganotosaurus,10%
+DinoSpawnEntries_Wasteland_South_C
+0.3,Corrupted Dilophosaur,1,4,100%,50%,40%,10%
+0.125,Corrupted Stegosaurus,0,2,80%,70%
+0.1,Corrupted Triceratops,0,2,80%,60%
+0.075,Corrupted Raptor,0,3,80%,60%,40%
+0.2,Corrupted Pteranodon,0,2,80%,35%
+0.06,Dilophosaur,1,2,100%,60%
+0.08,Stegosaurus,1,3,100%,80%,40%
+0.03,Carnotaurus,1,2,100%,80%
+0.04,Raptor,1,3,100%,70%,40%
+0.06,Gasbags,1,2,100%,50%
+0.08,Triceratops,1,2,100%,80%
+Stegosaurus,40%
+0.08,Pulmonoscorpius,1,3,100%,80%,60%
+0.08,Araneo,0,3,50%,40%,40%
+0.03,Rex,70%
+0.03,Corrupted Rex,70%
+0.03,Brontosaurus,0,2,70%,50%
+0.2,Pteranodon,0,2,30%,20%
+0.2,Dodo,40%
+Pteranodon,40%
+0.03,Corrupted Carnotaurus,0,2,80%,80%
+0.03,Dimetrodon,0,2,70%,60%
+DinoSpawnEntries_Wasteland_Sulfur_C
+0.3,Corrupted Dilophosaur,1,4,100%,50%,40%,30%
+0.125,Corrupted Stegosaurus,0,2,50%,20%
+0.1,Corrupted Triceratops,0,2,40%,10%
+0.075,Corrupted Raptor,0,3,50%,30%,30%
+0.2,Corrupted Pteranodon,100%
+0.08,Stegosaurus,1,2,100%,80%
+0.03,Carnotaurus,100%
+0.04,Raptor,1,3,100%,70%,60%
+0.06,Gasbags,0,2,80%,70%
+0.125,Pulmonoscorpius,1,3,100%,70%,50%
+0.125,Araneo,1,3,100%,90%,90%
+0.185,Titanoboa,1,2,100%,80%
+0.185,Spino,50%
+0.185,Corrupted Spino,40%
+0.185,Arthropluera,0,2,70%,60%
+0.125,Corrupted Stegosaurus,1,2,100%,40%
+0.125,Corrupted Stegosaurus,1,2,100%,40%
+0.185,Dung Beetle,40%
+0.185,Meganeura,1,4,100%,80%,70%,60%
+Ext_DinoSpawnEntries_DesertCave_C
+0.15,Arthropluera,1,3,100%,66.7%,33.3%
+0.15,Mantis,1,2,100%,60%
+0.15,Onyc,1,3,100%,66.7%,33.3%
+0.15,Titanoboa,1,2,100%,75%
+0.15,Rubble Golem,100%
+0.07,Achatina,1,3,100%,70%,35%
+Ext_DinoSpawnEntries_DesertMountain_C
+0.1,Doedicurus,1,3,100%,66.7%,33.3%
+0.05,Procoptodon,1,2,100%,45%
+0.08,Carnotaurus,100%
+0.125,Doedicurus,1,2,100%,70%
+0.0125,Tapejara,100%
+0.08,Ankylosaurus,1,2,100%,60%
+0.1,Meganeura,1,3,100%,75%,45%
+0.025,Dimetrodon,1,2,100%,60%
+0.0025,Rock Elemental,100%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.1,Kentrosaurus,1,3,100%,70%,45%
+0.014,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.125,Velonasaur,100%
+0.15,Pulmonoscorpius,1,2,100%,50%
+0.1,Titanomyrma Drone,0,3,80%,30%,10%
+Titanomyrma Soldier,0,2,80%,40%
+0.125,Morellatops,1,3,100%,70%,50%
+0.125,Thorny Dragon,0,2,80%,50%
+Ext_DinoSpawnEntries_DesertOasis_C
+0.1,Doedicurus,1,3,100%,66.7%,33.3%
+0.05,Procoptodon,1,2,100%,45%
+0.08,Allosaurus,100%
+0.125,Stegosaurus,1,3,100%,80%,60%
+0.0125,Tapejara,100%
+0.08,Ankylosaurus,1,2,100%,60%
+0.1,Meganeura,1,3,100%,75%,45%
+0.025,Dimetrodon,1,2,100%,60%
+0.0025,Spino,100%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.1,Kentrosaurus,1,3,100%,70%,45%
+0.1,Dodo,1,3,100%,40%,10%
+0.06665,Velonasaur,100%
+0.15,Pulmonoscorpius,1,2,100%,50%
+0.1,Titanomyrma Drone,0,3,80%,30%,10%
+Titanomyrma Soldier,0,2,80%,40%
+0.05,Lymantria,1,2,100%,66.7%
+0.05,Water Jug Bug,1,2,100%,66.7%
+0.125,Morellatops,1,3,100%,80%,60%
+0.125,Thorny Dragon,1,2,100%,80%
+Ext_DinoSpawnEntries_Forest_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+0.1625,Gacha,100%
+Ext_DinoSpawnEntries_ShallowWater_Cave_C
+0.2,Coelacanth,2,4,100%,100%,60%,30%
+0.3,Kaprosuchus,100%
+1,Piranha,2,3,100%,100%,50%
+0.3,Sarco,100%
+Ext_DinoSpawnEntries_ShallowWater_Desert_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Kaprosuchus,100%
+0.2,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+Ext_DinoSpawnEntries_ShallowWater_Ice_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Kairuku,2,4,100%,100%,60%,30%
+0.333,Sabertooth Salmon,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+T_Ext_DinoSpawnEntriesSnow_1_C
+0.15,Direwolf,2,5,100%,100%,80%,50%,30%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,1,2,100%,70%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.0125,Ovis,100%
+0.0725,Daeodon,1,4,100%,80%,60%,40%
+0.04,Megatherium,1,2,100%,50%
+0.0125,Yutyrannus,30%
+0.0125,Dire Bear,0,2,60%,30%
+0.075,Managarmr,80%
+T_Ext_DinoSpawnEntriesSnow_Purlovia_C
+0.15,Direwolf,2,5,100%,100%,70%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,100%
+0.067,Woolly Rhino,1,2,100%,70%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,1,4,100%,70%,60%,30%
+0.04,Megatherium,1,2,100%,50%
+0.0125,Rex,20%
+0.0125,Dire Bear,70%
+T_Ext_DinoSpawnEntriesSnow_TEMP_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,100%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+
+Valguero
+DinoSpawnEntriesArcha_C
+1,Archaeopteryx,100%
+DinoSpawnEntriesBeach_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesBrood_C
+1,Broodmother Lysrix,100%
+DinoSpawnEntriesCave_JungleTemple_C
+0.33,Dilophosaur,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.25,Pulmonoscorpius,100%
+0.33,Onyc,1,2,100%,75%
+DinoSpawnEntriesDamiensAtoll_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.075,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Ankylosaurus,1,3,100%,60%,30%
+0.125,Stegosaurus,1,2,100%,50%
+0.1,Brontosaurus,100%
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.125,Phiomia,100%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGrassland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesJungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesMonsterIsland_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesPenguins_C
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoods_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.025,Purlovia,100%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSavana_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.05,Mammoth,1,4,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.036,Woolly Rhino,1,2,100%,25%
+0.075,Doedicurus,100%
+0.0075,Procoptodon,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesSwampCaveWater_C
+0.125,Leech,1,2,100%,65%
+Diseased Leech,9%
+DinoSpawnEntriesSwampCave_C
+0.25,Meganeura,1,3,100%,80%,60%
+0.25,Araneo,1,2,100%,50%
+0.25,Arthropluera,1,2,100%,50%
+0.07,Achatina,2,4,100%,100%,75%,50%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.15,Titanoboa,100%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+DinoSpawnEntriesTundra_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.03,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesUnicorn_C
+1,Unicorn,100%
+DinoSpawnEntriesWater_C
+1,Coelacanth,1,5,100%,80%,60%,40%,20%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_ChalkHills_C
+0.075,Doedicurus,1,2,100%,50%
+0.05,Lymantria,1,2,100%,40%
+0.07,Parasaur,1,2,100%,30%
+0.1,Lystrosaurus,1,2,100%,60%
+0.05,Ankylosaurus,1,2,100%,40%
+0.03,Procoptodon,1,2,100%,33%
+0.165,Jerboa,1,4,100%,75%,50%,25%
+0.03,Raptor,1,2,100%,30%
+0.01,Ovis,1,4,100%,75%,50%,25%
+0.01,Equus,1,4,100%,75%,50%,25%
+0.002,Allosaurus,1,2,100%,50%
+DinoSpawnEntries_ChalkHills_Golem_C
+0.075,Doedicurus,1,2,100%,50%
+0.05,Lymantria,1,2,100%,40%
+0.07,Parasaur,1,2,100%,30%
+0.1,Lystrosaurus,1,2,100%,60%
+0.05,Ankylosaurus,1,2,100%,40%
+0.03,Procoptodon,1,2,100%,33%
+0.165,Jerboa,1,4,100%,75%,50%,25%
+0.03,Raptor,1,2,100%,30%
+0.01,Ovis,1,4,100%,75%,50%,25%
+0.01,Equus,1,4,100%,75%,50%,25%
+0.002,Allosaurus,2,100%,100%
+1,Rock Elemental,100%
+DinoSpawnEntries_ChalkHills_Plains_C
+0.075,Doedicurus,1,2,100%,50%
+0.05,Lymantria,1,2,100%,40%
+0.07,Parasaur,1,2,100%,30%
+0.1,Lystrosaurus,1,2,100%,60%
+0.05,Ankylosaurus,1,2,100%,40%
+0.03,Procoptodon,1,2,100%,33%
+0.165,Jerboa,1,4,100%,75%,50%,25%
+0.03,Raptor,1,2,100%,30%
+0.01,Ovis,1,4,100%,75%,50%,25%
+0.01,Equus,1,4,100%,75%,50%,25%
+0.002,Allosaurus,0,2,50%,30%
+1,Brontosaurus,1,2,5%,100%
+1,Diplodocus,1,2,5%,100%
+1,Rex,2%
+1,Paraceratherium,4%
+DinoSpawnEntries_DarkWaterAngler_C
+0.9,Anglerfish,1,2,100%,50%
+0.8,Electrophorus,2,6,100%,100%,70%,50%,40%,30%
+0.125,Dunkleosteus,100%
+1.2,Eurypterid,4,100%,100%,100%,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1.25,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_DarkWater_C
+1,Plesiosaur,2,100%,100%
+DinoSpawnEntries_DarkWater_Lio_C
+1,Liopleurodon,100%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_DeepWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_Deinonychus_C
+0.075,Deinonychus,2,100%,100%
+DinoSpawnEntries_Eel_CaveWater_C
+0.03,Electrophorus,60%
+0.6,Eurypterid,4,100%,100%,100%,100%
+0.3,Ammonite,4,100%,100%,100%,100%
+DinoSpawnEntries_InlandWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.255,Piranha,100%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+0.033,Otter,1,2,100%,35%
+DinoSpawnEntries_NormalLakeWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+DinoSpawnEntries_Ocean_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.04,Leedsichthys,100%
+DinoSpawnEntries_PolarBear_C
+0.25,Dire Polar Bear,100%
+DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+DinoSpawnEntries_ShallowWater_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Sarco,100%
+0.1,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_SmallLakeNoPiranha_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+DinoSpawnEntries_SmallLakeWithPiranha_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+DinoSpawnEntries_SpiderCave_Entrance_C
+0.7,Araneo,1,3,100%,66.7%,33.3%
+0.3,Onyc,1,2,100%,75%
+DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+DinoSpawnEntries_Valguero_IceDesert_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.22,Mammoth,1,3,100%,60%,30%
+0.067,Woolly Rhino,1,2,100%,30%
+0.25,Dire Polar Bear,100%
+0.1,Rock Elemental,100%
+DinoSpawnEntries_Valguero_Scotland_C
+0.525,Triceratops,1,3,100%,66.7%,33.3%
+0.05,Brontosaurus,0,3,20%,10%,5%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.0065,Ovis,4,8,100%,100%,100%,100%,50%,50%,50%,50%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntries_Valguero_SnowForest_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.15,Argentavis,1,2,100%,50%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.03,Yutyrannus,100%
+DinoSpawnEntries_Valguero_SnowPlains_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.22,Mammoth,1,3,100%,60%,30%
+0.067,Woolly Rhino,1,2,100%,30%
+VAL_DinoSpawnEntries_TwitchBioWater_C
+0.2,Aberrant Beelzebufo,100%
+0.8,Aberrant Electrophorus,100%
+0.04,Aberrant Baryonyx,100%
+0.9,Aberrant Anglerfish,1,2,100%,50%
+0.09,Aberrant Diplocaulus,100%
+0.35,Aberrant Trilobite,5,100%,100%,100%,100%,100%
+0.09,Aberrant Dimetrodon,100%
+0.09,Karkinos,100%
+0.1,Lamprey,2,3,100%,100%,85%
+0.09,Aberrant Sarco,100%
+0.45,Aberrant Sabertooth Salmon,2,3,100%,100%,85%
+0.09,Aberrant Spino,50%
+VAL_DinoSpawnEntries_TwitchFertileLand_Mix_C
+0.1,Aberrant Paraceratherium,100%
+0.075,Aberrant Stegosaurus,1,3,100%,66.7%,33.3%
+0.025,Aberrant Triceratops,1,3,100%,66.7%,33.3%
+0.085,Aberrant Raptor,1,4,100%,80%,60%,40%
+0.06,Aberrant Carnotaurus,100%
+0.07,Aberrant Moschops,1,2,100%,75%
+0.125,Aberrant Parasaur,1,3,100%,66.7%,33.3%
+0.032,Rex,100%
+0.425,Aberrant Dodo,1,5,100%,70%,60%,25%,20%
+0.15,Aberrant Meganeura,4,100%,100%,100%,100%
+0.085,Aberrant Iguanodon,100%
+0.0275,Aberrant Equus,1,4,100%,80%,60%,45%
+0.2,Aberrant Lystrosaurus,1,2,100%,50%
+0.15,Aberrant Pulmonoscorpius,1,3,100%,60%,30%
+0.26,Bulbdog,1,2,100%,50%
+0.22,Glowbug,1,3,100%,50%,25%
+0.09,Aberrant Carbonemys,100%
+0.085,Ravager,1,4,100%,80%,60%,40%
+0.09,Roll Rat,100%
+0.09,Aberrant Doedicurus,100%
+0.09,Aberrant Ovis,100%
+0.09,Aberrant Dire Bear,100%
+0.07,Featherlight,1,2,100%,75%
+Val_DinoSpawnEntriesWyvernTrench_C
+0.15,Titanoboa,1,2,100%,75%
+0.15,Mantis,1,2,100%,60%
+0.15,Araneo,1,2,100%,60%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.065,Dung Beetle,1,2,100%,60%
+0.1,Arthropluera,1,2,100%,75%
+Val_DinoSpawnEntries_DrakeTrench_C
+0.08,Glowbug,1,3,100%,66.7%,33.3%
+0.012,Aberrant Pulmonoscorpius,100%
+0.016,Seeker,1,2,100%,75%
+0.07,Aberrant Araneo,1,3,100%,75%,50%
+0.07,Karkinos,1,2,100%,50%
+0.07,Aberrant Titanoboa,1,2,100%,75%
+0.055,Aberrant Dimorphodon,1,2,100%,75%
+0.11,Aberrant Meganeura,0,2,8%,75%
+0.08,Glowtail,100%
+1,Featherlight,1,3,100%,66.7%,33.3%
+Val_FireWyvernEntries_C
+0.33,Fire Wyvern,100%
+Valguero_IceWyvernEntries_C
+0.33,Ice Wyvern,100%
+
+Genesis: Part 1
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+Gen1_Arctic_Cave_DinoSpawnEntries_C
+1,Ferox,100%
+1,Direwolf,100%
+1,Polar Bear,100%
+Gen1_Arctic_Ferox_DinoSpawnEntries_C
+1,Ferox,100%
+Gen1_Arctic_Forest_DinoSpawnEntries_C
+1,X Sabertooth,1,2,100%,50%
+1,Direwolf,1,4,100%,70%,50%,20%
+1,Dire Bear,100%
+1,Megatherium,100%
+1,X Argentavis,100%
+1,Daeodon,100%
+1,X Yutyrannus,100%
+1,Microraptor,1,4,100%,70%,50%,25%
+1,Mammoth,100%
+1,X Woolly Rhino,100%
+1,Megaloceros,1,2,100%,50%
+1,Chalicotherium,1,2,100%,50%
+1,Equus,1,4,100%,50%,50%,20%
+1,Gigantopithecus,1,2,100%,50%
+1,Dodo,2,5,100%,100%,70%,50%,25%
+1,Doedicurus,100%
+1,Ankylosaurus,100%
+1,Procoptodon,100%
+1,Ovis,1,3,100%,20%,10%
+1,Therizinosaur,100%
+Gen1_Arctic_Forest_Nice_DinoSpawnEntries_C
+1,Dire Bear,100%
+1,Megatherium,100%
+1,X Argentavis,100%
+1,Microraptor,1,4,100%,70%,50%,25%
+1,Mammoth,100%
+1,X Woolly Rhino,100%
+1,Megaloceros,1,2,100%,50%
+1,Equus,1,4,100%,50%,50%,20%
+1,Gigantopithecus,1,2,100%,50%
+1,Dodo,2,5,100%,100%,70%,50%,25%
+1,Doedicurus,100%
+1,Ankylosaurus,100%
+1,Procoptodon,100%
+1,Ovis,1,3,100%,20%,10%
+1,Therizinosaur,100%
+Gen1_Arctic_FrozenWater_DinoSpawnEntries_C
+1,Sabertooth Salmon,2,3,100%,100%,50%
+Gen1_Arctic_LakeArea_DinoSpawnEntries_C
+1,Kairuku,2,3,100%,100%,50%
+1,X Otter,2,3,100%,100%,50%
+1,Castoroides,2,3,100%,100%,50%
+Gen1_Arctic_LakeArea_OttersOnly_DinoSpawnEntries_C
+1,X Otter,2,3,100%,100%,50%
+Gen1_Arctic_Wastes_DinoSpawnEntries_C
+1,Direwolf,1,4,100%,70%,50%,20%
+1,Dire Bear,100%
+1,X Argentavis,100%
+1,Daeodon,100%
+1,X Yutyrannus,100%
+1,Mammoth,100%
+1,X Woolly Rhino,100%
+1,Doedicurus,100%
+1,Ankylosaurus,100%
+1,Procoptodon,100%
+1,Rock Elemental,2.5%
+Gen1_Bog_Canopy_DinoSpawnEntries_C
+1,X Tapejara,100%
+1,Meganeura,1,3,100%,70%,50%
+1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,100%
+1,Dilophosaur,1,3,100%,70%,50%
+1,Dimorphodon,100%
+1,Dimetrodon,100%
+1,Moschops,100%
+1,Mesopithecus,100%
+1,Pteranodon,100%
+Gen1_Bog_Forest_DinoSpawnEntries_C
+1,X Tapejara,100%
+1,Meganeura,1,3,100%,70%,50%
+1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,100%
+1,Dilophosaur,1,3,100%,70%,50%
+1,Dimorphodon,100%
+1,Dimetrodon,100%
+1,Moschops,100%
+1,Mesopithecus,100%
+1,Pteranodon,100%
+1,Diplocaulus,100%
+1,Titanoboa,100%
+1,Terror Bird,1,2,100%,50%
+1,Daeodon,100%
+1,Dung Beetle,100%
+1,Pegomastax,100%
+1,Carbonemys,1,2,100%,65%
+1,Stegosaurus,1,2,100%,65%
+1,Iguanodon,1,2,100%,65%
+1,Pachyrhinosaurus,1,3,100%,65%,35%
+1,Beelzebufo,100%
+Gen1_Bog_InsectSwarm_DinoSpawnEntries_C
+1,Insect Swarm,1,3,100%,50%,25%
+Gen1_Bog_Plains_DinoSpawnEntries_C
+1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,100%
+1,Dilophosaur,1,3,100%,70%,50%
+1,Dimorphodon,100%
+1,Moschops,1,2,100%,40%
+1,Daeodon,100%
+1,X Raptor,1,3,100%,70%,50%
+1,Stegosaurus,1,2,100%,65%
+1,X Parasaur,1,2,100%,65%
+1,Iguanodon,1,2,100%,65%
+1,Pachyrhinosaurus,1,3,100%,65%,35%
+1,Carnotaurus,100%
+1,Kentrosaurus,100%
+1,Phiomia,100%
+1,Oviraptor,100%
+1,X Paraceratherium,100%
+1,Brontosaurus,100%
+Gen1_Bog_Spider_DinoSpawnEntries_C
+1,Bloodstalker,100%
+Gen1_Bog_Spino_DinoSpawnEntries_C
+1,X Spino,100%
+Gen1_Bog_Springs_DinoSpawnEntries_C
+1,Dilophosaur,1,3,100%,70%,50%
+1,Dimorphodon,100%
+1,Moschops,100%
+1,Pteranodon,100%
+1,Titanoboa,100%
+1,X Raptor,1,3,100%,70%,50%
+1,Dung Beetle,100%
+1,X Parasaur,1,2,100%,65%
+1,Pachyrhinosaurus,1,3,100%,65%,35%
+1,Kentrosaurus,1,2,100%,50%
+Gen1_Bog_Water_DinoSpawnEntries_C
+1,Piranha,3,5,100%,100%,100%,50%,25%
+1,Coelacanth,2,3,100%,100%,50%
+1,Leech,100%
+1,Kaprosuchus,100%
+1,Sarco,100%
+1,Baryonyx,100%
+1,Beelzebufo,100%
+Gen1_Lunar_CaveWater_DinoSpawnEntries_Cave_C
+1,X Sabertooth Salmon,2,5,100%,100%,50%,20%,5%
+1,Karkinos,100%
+0.1,Lamprey,2,3,100%,100%,85%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave1_C
+1,Shinehorn,1,2,100%,50%
+1,Ravager,1,3,100%,70%,50%
+1,Roll Rat,1,2,100%,40%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave2_C
+1,Roll Rat,1,2,100%,40%
+1,Gasbags,1,2,100%,60%
+1,Bulbdog,1,2,100%,50%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave3_C
+1,Ravager,1,3,100%,70%,50%
+1,Featherlight,1,3,100%,60%,30%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave4_C
+1,Glowbug,1,4,100%,65%,35%,15%
+1,Seeker,2,5,100%,100%,70%,50%,25%
+1,Shinehorn,1,2,100%,50%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave5_C
+1,Seeker,2,5,100%,100%,70%,50%,25%
+1,Gasbags,1,2,100%,60%
+1,Featherlight,1,3,100%,60%,30%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave6_C
+1,Seeker,2,5,100%,100%,70%,50%,25%
+1,Featherlight,1,3,100%,60%,30%
+1,Bulbdog,1,2,100%,50%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_Lunar_DinoSpawnEntries_C
+1,Tek Raptor,1,3,100%,70%,50%
+1,Tek Rex,100%
+1,Tek Stegosaurus,1,2,100%,65%
+1,Tek Triceratops,1,2,100%,65%
+1,Tek Parasaur,1,3,100%,65%,35%
+1,Seeker,2,5,100%,100%,70%,50%,25%
+1,Defense Unit,100%
+1,Attack Drone,100%
+Gen1_Lunar_SpaceWhale_DinoSpawnEntries_C
+1,Astrocetus,100%
+Gen1_Lunar_Xenos_DinoSpawnEntries_C
+1,Surface Reaper King,100%
+Gen1_OceanAboveWater_DinoSpawnEntries_C
+1,Hesperornis,1,2,100%,50%
+Gen1_OceanAboveWater_Land_DinoSpawnEntries_C
+1,Pelagornis,100%
+1,Ichthyornis,1,2,100%,50%
+1,Dodo,2,4,100%,100%,50%,25%
+1,Lystrosaurus,2,4,100%,100%,50%,25%
+1,Mesopithecus,2,4,100%,100%,50%,25%
+1,Archaeopteryx,1,2,100%,50%
+1,Pegomastax,100%
+Gen1_OceanDeep_DinoSpawnEntries_C
+1,Ammonite,1,3,100%,50%,25%
+1,Anglerfish,1,3,100%,50%,25%
+1,X Megalodon,1,2,100%,25%
+1,Electrophorus,1,4,100%,75%,50%,25%
+1,X Dunkleosteus,100%
+1,Eurypterid,1,4,100%,80%,60%,50%
+1,Parakeet Fish School,100%
+1,Cnidaria,100%
+Gen1_OceanLargerDinos_DinoSpawnEntries_C
+1,X Mosasaurus,100%
+1,Plesiosaur,100%
+1,Tusoteuthis,100%
+1,Leedsichthys,100%
+Gen1_OceanShallow_DinoSpawnEntries_C
+1,X Ichthyosaurus,1,3,100%,50%,25%
+1,Manta,100%
+1,X Megalodon,1,2,100%,25%
+1,Electrophorus,1,4,100%,75%,50%,25%
+1,X Basilosaurus,100%
+1,Eurypterid,1,4,100%,80%,60%,50%
+1,Carbonemys,1,2,100%,80%
+1,Diplocaulus,1,2,100%,80%
+1,Trilobite,1,4,100%,80%,60%,50%
+Gen1_OceanTurtle_DinoSpawnEntries_C
+1,Megachelon,100%
+Gen1_Ocean_CaveWater_DinoSpawnEntries_C
+1,Coelacanth,2,3,100%,100%,50%
+1,Sabertooth Salmon,2,3,100%,100%,50%
+1,Cnidaria,2,3,100%,100%,50%
+Gen1_Volcano_Cave_DinoSpawnEntries_C
+0.15,Pulmonoscorpius,1,5,100%,80%,60%,40%,20%
+0.15,Onyc,1,5,100%,80%,60%,40%,20%
+0.15,Arthropluera,1,2,100%,50%
+0.15,Araneo,1,5,100%,80%,60%,40%,20%
+0.15,Magmasaur,50%
+0.15,X Rock Elemental,50%
+Gen1_Volcano_DinoSpawnEntries_C
+0.15,Pulmonoscorpius,3,5,100%,100%,100%,60%,40%
+0.15,Magmasaur,1,2,100%,50%
+0.15,X Rex,1,2,100%,50%
+0.15,Megalania,1,2,100%,50%
+0.15,Basilisk,1,2,100%,50%
+0.15,Carnotaurus,1,2,100%,50%
+0.15,X Allosaurus,1,2,100%,50%
+0.15,Arthropluera,100%
+0.15,Titanomyrma Drone,3,6,100%,100%,100%,60%,40%,20%
+0.15,Argentavis,2,3,100%,50%,100%
+0.15,Dimorphodon,2,3,100%,100%,50%
+0.15,Dimetrodon,1,2,100%,50%
+0.15,Purlovia,100%
+1,Stegosaurus,1,2,100%,65%
+1,X Triceratops,1,2,100%,65%
+1,X Ankylosaurus,1,2,100%,65%
+1,Doedicurus,1,2,100%,65%
+1,Parasaur,1,2,100%,65%
+1,Gallimimus,1,3,100%,65%,25%
+1,Iguanodon,1,2,100%,65%
+1,Kentrosaurus,100%
+1,Lystrosaurus,100%
+1,Thorny Dragon,100%
+1,Oil Jug Bug,100%
+Water Jug Bug,50%
+Gen1_Volcano_Magmasaur_DinoSpawnEntries_C
+0.15,Magmasaur,2,100%,100%
+
+Crystal Isles
+AB_DinoSpawnEntries_Basilisks_C
+1,Basilisk,100%
+AB_DinoSpawnEntries_BioCaveWater_C
+0.25,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.25,Aberrant Piranha,2,4,100%,100%,75%,37.5%
+0.4,Aberrant Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.1,Aberrant Sarco,100%
+0.049,Aberrant Spino,100%
+0.033,Aberrant Otter,1,2,100%,35%
+0.09,Karkinos,100%
+AB_DinoSpawnEntries_TwitchBioWater_C
+0.2,Aberrant Beelzebufo,100%
+0.5,Aberrant Cnidaria,100%
+0.8,Aberrant Electrophorus,100%
+0.04,Aberrant Baryonyx,100%
+0.9,Aberrant Anglerfish,1,2,100%,50%
+0.09,Aberrant Diplocaulus,100%
+0.35,Aberrant Trilobite,5,100%,100%,100%,100%,100%
+0.09,Aberrant Dimetrodon,100%
+0.09,Karkinos,100%
+0.1,Lamprey,2,3,100%,100%,85%
+0.09,Aberrant Sarco,100%
+0.45,Aberrant Sabertooth Salmon,2,3,100%,100%,85%
+AB_DinoSpawnEntries_TwitchFertileWaterCave3_C
+0.25,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.25,Aberrant Piranha,2,4,100%,100%,75%,37.5%
+0.4,Aberrant Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.1,Aberrant Sarco,100%
+0.049,Aberrant Electrophorus,100%
+0.033,Aberrant Otter,1,2,100%,35%
+0.09,Karkinos,100%
+0.09,Aberrant Cnidaria,100%
+AB_DinoSpawnEntries_TwitchFertileWaterEasy_C
+0.25,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.033,Aberrant Otter,1,2,100%,35%
+0.35,Aberrant Trilobite,5,100%,100%,100%,100%,100%
+CI_CaveWolves_C,0.085,Ravager,1,4,100%,80%,60%,40%
+CI_DinoSpawnEntries_AggressiveCrysWyv_C
+0.33,Ember Crystal Wyvern,100%
+0.33,Tropical Crystal Wyvern,100%
+0.33,Blood Crystal Wyvern,100%
+CI_DinoSpawnEntries_Ants_C
+0.1,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.04,Dung Beetle,1,2,100%,60%
+CI_DinoSpawnEntries_Bog_C
+0.1,Vulture,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,100%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+0.1,Triceratops,1,2,100%,50%
+0.22,Carbonemys,1,2,100%,50%
+0.2,Lystrosaurus,1,2,100%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.25,Araneo,1,2,100%,50%
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.15,Oil Jug Bug,100%
+Water Jug Bug,100%
+0.0125,Megatherium,1,2,100%,10%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+CI_DinoSpawnEntries_CavernEasy_C
+0.12,Glowbug,100%
+0.12,Glowtail,100%
+0.2,Achatina,1,3,100%,50%,25%
+0.2,Oil Jug Bug,100%
+0.33,Lymantria,1,2,100%,66.7%
+CI_DinoSpawnEntries_DevilsWater_C
+1,Tusoteuthis,100%
+1,Plesiosaur,100%
+1,Mosasaurus,100%
+CI_DinoSpawnEntries_ElementBubbles_Large_C
+0.2,Piranha,3,100%,100%,100%
+0.1,Cnidaria,2,100%,100%
+0.1,Anglerfish,1,2,100%,75%
+0.1,Electrophorus,3,100%,100%,100%
+CI_DinoSpawnEntries_ElementalChamber_C
+0.08,Glowbug,1,3,100%,66.7%,33.3%
+0.012,Aberrant Pulmonoscorpius,100%
+0.07,Seeker,1,3,100%,75%,50%
+0.07,Aberrant Carnotaurus,1,2,100%,50%
+0.07,Aberrant Arthropluera,1,2,100%,75%
+0.055,Aberrant Purlovia,1,2,100%,75%
+0.08,Aberrant Megalosaurus,1,2,100%,75%
+0.1,Aberrant Spino,100%
+0.1,Featherlight,100%
+0.04,Aberrant Dung Beetle,1,2,100%,75%
+CI_DinoSpawnEntries_EmberWyverns_C
+0.33,Ember Crystal Wyvern,100%
+CI_DinoSpawnEntries_FloatingIslands_Main_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.075,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Ankylosaurus,1,3,100%,60%,30%
+0.125,Stegosaurus,1,2,100%,50%
+0.1,Brontosaurus,100%
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.125,Phiomia,100%
+0.1,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,100%
+0.11,Carbonemys,1,2,100%,50%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.15,Tapejara,100%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.15,Argentavis,100%
+0.2,Equus,1,4,100%,80%,60%,45%
+0.0065,Ovis,100%
+0.1,Lymantria,1,2,100%,66.7%
+0.1,Oil Jug Bug,1,3,100%,75%,50%
+0.1,Paraceratherium,100%
+CI_DinoSpawnEntries_FloatingIslands_Small_C
+0.1,Parasaur,1,3,100%,60%,30%
+0.025,Stegosaurus,1,2,100%,50%
+0.1,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,100%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.15,Tapejara,100%
+0.15,Archaeopteryx,100%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+0.2,Pteranodon,1,2,100%,50%
+0.2,Pteranodon,1,2,100%,50%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.15,Argentavis,100%
+0.0065,Ovis,100%
+0.085,Iguanodon,100%
+0.1,Lymantria,1,2,100%,66.7%
+0.1,Oil Jug Bug,1,3,100%,75%,50%
+0.1,Water Jug Bug,1,3,100%,75%,50%
+CI_DinoSpawnEntries_OtterPonds_C
+1,Coelacanth,2,4,100%,100%,70%,40%
+1,Coelacanth,2,4,100%,100%,70%,40%
+1,Coelacanth,2,4,100%,100%,70%,40%
+1,Otter,4,100%,100%,100%,100%
+CI_DinoSpawnEntries_PoohBears_C
+0.2,Dire Bear,1,3,100%,75%,50%
+CI_DinoSpawnEntries_SaberPride_C
+0.1,Sabertooth,3,5,100%,100%,100%,50%,700%
+CI_DinoSpawnEntries_Tropeo_C
+1,Tropeognathus,100%
+CI_DinoSpawnEntries_WaterTunnels_C
+0.725,Ammonite,2,100%,100%
+0.65,Cnidaria,1,2,100%,85%
+0.15,Anglerfish,1,2,100%,50%
+0.1,Electrophorus,2,100%,100%
+0.01,Mosasaurus,100%
+0.01,Plesiosaur,1,2,100%,50%
+0.24,Aberrant Manta,1,3,100%,50%,50%
+1.2,Eurypterid,4,100%,100%,100%,100%
+CI_DinoSpawnEntries_WolfPack_C
+0.1,Direwolf,3,5,100%,100%,100%,50%,700%
+CI_HoneyBees_C,1,Giant Worker Bee,3,100%,100%,100%
+DinoSpawnEntriesBeach_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCave1_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave5_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGrassland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesIceCave_C
+0.42,Direwolf,1,3,100%,66.7%,33.3%
+0.25,Purlovia,1,2,100%,50%
+0.25,Polar Bear,1,2,100%,50%
+0.25,Yeti,100%
+DinoSpawnEntriesJungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesJungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesMonsterIsland_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesPenguins_C
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoods_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.025,Purlovia,100%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSnowShoreline_PGM_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.05,Rex,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,3,100%,30%,10%
+DinoSpawnEntriesSnow_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+DinoSpawnEntriesUnicorn_C
+1,Unicorn,100%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_CW_Bloodfall_C
+1,Blood Crystal Wyvern,1,2,100%,25%
+1,Blood Crystal Wyvern,100%
+DinoSpawnEntries_CW_WhiteShoals_C
+1,Tropical Crystal Wyvern,1,3,100%,25%,15%
+1,Tropical Crystal Wyvern,100%
+DinoSpawnEntries_DarkWaterAngler_C
+0.9,Anglerfish,1,2,100%,50%
+0.8,Electrophorus,2,6,100%,100%,70%,50%,40%,30%
+0.125,Dunkleosteus,100%
+1.2,Eurypterid,4,100%,100%,100%,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1.25,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_DarkWater_C
+1,Plesiosaur,2,100%,100%
+DinoSpawnEntries_DarkWater_Lio_C
+1,Liopleurodon,100%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_DeepWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_GenericWater_C
+1,Coelacanth,1,4,100%,50%,30%,10%
+DinoSpawnEntries_Griffin_C
+1,Griffin,100%
+DinoSpawnEntries_InlandWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.255,Piranha,100%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+0.033,Otter,1,2,100%,35%
+DinoSpawnEntries_Ocean_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.04,Leedsichthys,100%
+DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+DinoSpawnEntries_ShallowWater_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Sarco,100%
+0.1,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+SE_DinoSpawnEntriesBadlands_C
+0.1,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.04,Terror Bird,1,2,100%,75%
+0.1,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.1,Vulture,1,3,100%,75%,50%
+0.035,Lymantria,1,2,100%,60%
+0.02,Morellatops,1,2,100%,60%
+0.08,Sabertooth,1,2,100%,75%
+0.03,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.055,Carnotaurus,1,2,100%,75%
+0.04,Arthropluera,1,2,100%,75%
+0.035,Ankylosaurus,1,2,100%,75%
+0.06,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,75%
+0.03,Rock Elemental,100%
+0.025,Troodon,3,4,100%,100%,100%,50%
+1,Thylacoleo,100%
+0.028,Daeodon,1,4,100%,55%,0%,0%
+0.05,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesCanyons_C
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.1,Terror Bird,1,2,100%,75%
+0.06,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.075,Sabertooth,1,2,100%,75%
+0.1,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.1,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,100%
+0.06,Morellatops,1,2,100%,75%
+0.022,Purlovia,100%
+0.029,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesDunes_C
+0.2,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.15,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.15,Vulture,2,4,100%,100%,50%,25%
+0.08,Arthropluera,1,2,100%,33.3%
+0.1,Titanoboa,1,2,100%,25%
+0.035,Mantis,2,3,100%,100%,50%
+0.04,Dung Beetle,1,2,100%,60%
+0.15,Oil Jug Bug,100%
+Water Jug Bug,100%
+SE_DinoSpawnEntriesGreenDesert_C
+0.075,Oil Jug Bug,1,3,100%,75%,50%
+0.075,Water Jug Bug,1,3,100%,75%,50%
+0.07,Terror Bird,1,3,100%,75%,50%
+0.05,Lymantria,1,2,100%,66.7%
+0.07,Doedicurus,1,2,100%,60%
+0.03,Paraceratherium,100%
+0.06,Gallimimus,100%
+0.15,Titanomyrma Drone,1,3,100%,90%,80%
+Titanomyrma Soldier,0,2,70%,60%
+0.09,Morellatops,1,2,100%,60%
+0.06,Sabertooth,1,2,100%,60%
+0.06,Lystrosaurus,1,2,100%,60%
+0.04,Ankylosaurus,1,2,100%,60%
+0.06,Direwolf,100%
+0.04,Procoptodon,1,2,100%,33%
+0.04,Thorny Dragon,1,2,100%,60%
+0.01,Rock Elemental,100%
+0.17,Jerboa,2,4,100%,100%,75%,50%
+0.0125,Archaeopteryx,1,2,100%,50%
+0.028,Pegomastax,1,3,100%,85%,75%
+0.036,Microraptor,3,5,100%,100%,100%,70%,40%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.03,Daeodon,2,4,100%,100%,70%,60%
+0.01,Megatherium,1,2,100%,50%
+SE_DinoSpawnEntriesMountain_C
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.08,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.15,Sabertooth,1,2,100%,75%
+0.125,Carnotaurus,1,2,100%,75%
+0.125,Argentavis,1,2,100%,25%
+0.0125,Tapejara,100%
+0.06,Ankylosaurus,1,2,100%,60%
+0.06,Lymantria,1,2,100%,66.7%
+0.1,Vulture,1,2,100%,60%
+0.1,Rock Elemental,100%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.025,Kentrosaurus,1,3,100%,70%,45%
+0.014,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.032,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+SE_DinoSpawnEntriesOasis_C
+0.065,Raptor,1,2,100%,75%
+0.05,Lymantria,1,2,100%,66.7%
+0.085,Procoptodon,100%
+0.15,Lystrosaurus,1,3,100%,90%,80%
+0.15,Morellatops,1,2,100%,60%
+0.15,Paraceratherium,100%
+0.15,Gallimimus,100%
+0.25,Jerboa,2,4,100%,100%,75%,50%
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.07,Moschops,1,2,100%,75%
+0.043,Pegomastax,1,3,100%,85%,75%
+0.025,Ovis,100%
+0.025,Iguanodon,100%
+
+Genesis: Part 2
+DinoSpawnEntriesBeach_Gen2_C
+0.425,Jerboa,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.075,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Ferox,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Megaloceros,2,4,100%,100%,75%,50%
+0.03,Tek Stryder,100%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesForest_Gen2_C
+0.2,R Parasaur,1,3,100%,60%,30%
+0.25,Triceratops,1,2,100%,60%
+0.5,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.3,Phiomia,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.4,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.2,Mesopithecus,1,3,100%,50%,25%
+0.15,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.15,R Megatherium,100%
+0.1,Iguanodon,100%
+DinoSpawnEntriesGardensMountain_Edges_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+4,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,R Carnotaurus,1,2,100%,25%
+0.15,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,R Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.2,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesGardensMountain_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,R Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Thorny Dragon,100%
+0.0075,Gacha,100%
+0.035,R Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesGardensMountain_North_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+4,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.06,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.25,Argentavis,1,3,100%,66.7%,33.3%
+0.05,R Carnotaurus,1,2,100%,25%
+0.15,Doedicurus,100%
+0.06,Thorny Dragon,100%
+0.0075,Procoptodon,100%
+0.1,R Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.2,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesGardens_CentralIslands_Gen2_C
+0.035,R Allosaurus,3,100%,100%,100%
+0.03,Tapejara,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Mantis,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Velonasaur,100%
+0.005,Seeker,100%
+0.1,Featherlight,100%
+0.08,Shinehorn,1,2,100%,75%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.0125,Troodon,3,4,100%,100%,100%,50%
+0.5,Stegosaurus,1,3,100%,40%,10%
+0.0125,Rock Elemental,100%
+DinoSpawnEntriesGardens_FootHills_Gen2_C
+0.035,R Allosaurus,3,100%,100%,100%
+0.15,Tapejara,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Paraceratherium,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Water Jug Bug,1,2,100%,20%
+0.2,Oil Jug Bug,1,2,100%,20%
+0.085,R Velonasaur,100%
+0.1,Featherlight,100%
+0.08,Shinehorn,1,2,100%,75%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.01,Troodon,3,4,100%,100%,100%,50%
+0.5,Stegosaurus,1,3,100%,40%,10%
+0.25,Parasaur,1,4,100%,70%,50%,30%
+DinoSpawnEntriesGardens_InnerRivers_Gen2_C
+0.035,R Brontosaurus,1,2,100%,30%
+0.15,Pteranodon,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Mantis,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Dilophosaur,1,3,100%,70%,30%
+0.05,Moschops,1,2,100%,75%
+0.045,Chalicotherium,100%
+0.045,Achatina,100%
+0.8,Pachyrhinosaurus,1,3,100%,80%,20%
+0.5,R Carbonemys,100%
+0.065,Shadowmane,1,4,100%,70%,30%,10%
+0.03,Roll Rat,100%
+0.1,Ravager,3,100%,100%,100%
+0.1,Dung Beetle,1,3,100%,50%,25%
+DinoSpawnEntriesGardens_Plains_Gen2_C
+0.035,R Allosaurus,3,100%,100%,100%
+0.15,Lymantria,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Mantis,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Velonasaur,100%
+0.005,Seeker,100%
+0.1,Featherlight,100%
+0.08,Shinehorn,1,2,100%,75%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.02,Troodon,3,4,100%,100%,100%,50%
+0.5,Stegosaurus,1,3,100%,40%,10%
+0.085,R Brontosaurus,1,3,100%,40%,10%
+0.085,Parasaur,1,3,100%,40%,10%
+DinoSpawnEntriesGardens_RiversLand_Gen2_C
+0.035,R Brontosaurus,1,2,100%,30%
+0.15,Pteranodon,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Mantis,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Dilophosaur,1,3,100%,70%,30%
+0.005,Seeker,100%
+0.1,Glowtail,100%
+0.08,Bulbdog,1,2,100%,75%
+0.05,Moschops,1,2,100%,75%
+0.045,Chalicotherium,100%
+0.025,Troodon,3,4,100%,100%,100%,50%
+0.2,Ichthyornis,100%
+0.8,Pachyrhinosaurus,1,3,100%,80%,20%
+0.5,R Carbonemys,100%
+0.065,Shadowmane,1,4,100%,70%,30%,10%
+0.1,Dung Beetle,1,3,100%,50%,25%
+DinoSpawnEntriesGardens_Swamps_Gen2_C
+0.15,Phiomia,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.3,Titanoboa,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Dilophosaur,1,3,100%,70%,30%
+0.05,Moschops,1,2,100%,75%
+0.35,Stegosaurus,1,4,100%,80%,40%,20%
+0.045,Achatina,100%
+0.8,Pachyrhinosaurus,1,3,100%,80%,20%
+0.5,R Carbonemys,100%
+0.08,Gallimimus,1,3,100%,60%,30%
+0.4,Glowbug,1,3,100%,60%,20%
+0.025,Insect Swarm,1,2,100%,20%
+DinoSpawnEntriesGardens_TrenchBorder_Gen2_C
+0.035,R Brontosaurus,1,2,100%,30%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Mantis,1,2,100%,60%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Dilophosaur,1,3,100%,70%,30%
+0.005,Seeker,100%
+0.1,Glowtail,100%
+0.3,Paraceratherium,100%
+0.05,Moschops,1,2,100%,75%
+0.015,Troodon,3,4,100%,100%,100%,50%
+0.085,Ichthyornis,100%
+0.8,Pachyrhinosaurus,1,3,100%,80%,20%
+0.5,R Carbonemys,100%
+0.035,Noglin,100%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+DinoSpawnEntriesGardens_TrenchForest_Gen2_C
+0.035,R Brontosaurus,1,2,100%,30%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Araneo,1,2,100%,60%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Dilophosaur,1,3,100%,70%,30%
+0.005,Seeker,100%
+0.1,Glowtail,100%
+0.3,Paraceratherium,100%
+0.05,Moschops,1,2,100%,75%
+0.2,Titanoboa,1,4,100%,60%,40%,20%
+0.085,Ichthyornis,100%
+0.8,Pachyrhinosaurus,1,3,100%,80%,20%
+0.5,R Carbonemys,100%
+0.035,Noglin,100%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+DinoSpawnEntriesGardens_UpperHills1_C
+0.035,R Allosaurus,3,100%,100%,100%
+0.15,Vulture,1,2,100%,50%
+0.025,Shadowmane,100%
+0.005,R Carnotaurus,100%
+0.45,Araneo,100%
+0.005,Seeker,100%
+0.05,Rex,100%
+0.125,Bloodstalker,100%
+0.045,Therizinosaur,100%
+0.0125,Troodon,3,4,100%,100%,100%,50%
+0.3,Dimorphodon,1,3,100%,80%,60%
+DinoSpawnEntriesGardens_UpperHills2_C
+0.035,Raptor,3,100%,100%,100%
+0.025,Shadowmane,100%
+0.005,R Carnotaurus,100%
+0.45,Araneo,100%
+0.6,Pulmonoscorpius,1,3,100%,80%,60%
+0.005,Vulture,100%
+0.05,Rex,100%
+0.125,Bloodstalker,100%
+0.045,Therizinosaur,100%
+0.0125,Troodon,3,4,100%,100%,100%,50%
+0.3,Dimorphodon,1,3,100%,80%,60%
+DinoSpawnEntriesGardens_UpperHills3_C
+0.035,Raptor,3,100%,100%,100%
+0.025,Managarmr,100%
+0.005,R Carnotaurus,100%
+0.45,Araneo,100%
+0.6,Pulmonoscorpius,1,3,100%,80%,60%
+0.005,Seeker,100%
+0.05,Rex,100%
+0.125,Bloodstalker,100%
+0.045,Therizinosaur,100%
+0.3,Dimorphodon,1,3,100%,80%,60%
+DinoSpawnEntriesGardens_UpperHills4_C
+0.035,Raptor,3,100%,100%,100%
+0.025,Shadowmane,100%
+0.005,R Carnotaurus,100%
+0.45,Araneo,100%
+0.6,Pulmonoscorpius,1,3,100%,80%,60%
+0.005,Vulture,100%
+0.04,Yutyrannus,100%
+R Carnotaurus,3,100%,100%,100%
+0.045,Therizinosaur,100%
+0.2,Daeodon,100%
+0.3,Dimorphodon,1,3,100%,80%,60%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGigant_Gen2_C
+1,R Giganotosaurus,100%
+1,R Giganotosaurus,100%
+DinoSpawnEntriesGrassland_Easy_Gen2_C
+0.125,Maewing,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.225,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,10%,2.5%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.01,R Gasbags,100%
+0.015,Woolly Rhino,100%
+0.03,Doedicurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Gallimimus,1,4,100%,66.7%,33.4%,10%
+0.032,Diplodocus,100%
+0.1,Moschops,100%
+0.075,R Parasaur,2,4,100%,100%,50%,25%
+0.25,Ovis,100%
+0.0275,R Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesGrassland_Gen2_C
+0.125,Maewing,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.225,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,10%,2.5%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.01,R Gasbags,100%
+0.015,Woolly Rhino,100%
+0.03,Doedicurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.035,Hyaenodon,1,3,100%,80%,30%
+0.1,Gallimimus,1,4,100%,66.7%,33.4%,10%
+0.032,Diplodocus,100%
+0.1,Moschops,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.075,R Parasaur,2,4,100%,100%,50%,25%
+0.25,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,R Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesHardForest_Gen2_C
+0.2,R Parasaur,1,3,100%,60%,30%
+0.25,Triceratops,1,2,100%,60%
+0.5,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.3,Phiomia,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.4,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.2,Mesopithecus,1,3,100%,50%,25%
+0.15,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.15,Megatherium,100%
+0.1,Iguanodon,100%
+0.2,Dire Bear,100%
+0.15,Purlovia,100%
+DinoSpawnEntriesMeanJungle_Gen2_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.02,Tek Stryder,100%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.35,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.125,Terror Bird,1,2,100%,50%
+0.08,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.035,Meganeura,4,100%,100%,100%,100%
+0.025,Meganeura,4,100%,100%,100%,100%
+0.125,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.025,Moschops,1,2,100%,75%
+0.06,Therizinosaur,100%
+0.065,Troodon,3,4,100%,100%,100%,50%
+0.1,Iguanodon,100%
+DinoSpawnEntriesMountain_Easy_Gen2_C
+0.3,Ankylosaurus,1,3,100%,75%,50%
+0.25,Stegosaurus,1,3,100%,75%,50%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.0125,R Direwolf,2,4,100%,100%,66.7%,33.3%
+0.01,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,R Daeodon,1,2,100%,25%
+0.25,Doedicurus,100%
+0.06,Pachy,100%
+0.025,R Procoptodon,100%
+0.015,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+0.4,Mammoth,1,3,100%,75%,50%
+DinoSpawnEntriesMountain_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.085,R Direwolf,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,R Daeodon,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,R Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+0.15,Mammoth,1,3,100%,75%,50%
+DinoSpawnEntriesMountain_Hard_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.08,R Thylacoleo,1,2,100%,1.5%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,R Snow Owl,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.025,R Daeodon,100%
+0.0075,R Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Megaloceros,1,3,100%,70%,45%
+0.11,R Direwolf,1,6,100%,90%,80%,70%,60%,50%
+0.15,Mammoth,1,3,100%,75%,50%
+0.015,Yutyrannus,100%
+Carnotaurus,1,3,100%,80%,80%
+DinoSpawnEntriesMountain_VeryHard_Gen2_C
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.2,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.1,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.3,R Snow Owl,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.035,Allosaurus,3,100%,100%,100%
+0.015,R Direwolf,1,6,100%,90%,80%,70%,60%,50%
+0.015,Yutyrannus,100%
+Carnotaurus,1,3,100%,80%,80%
+DinoSpawnEntriesNiceJungle_Gen2_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,R Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesOceanWaterDeep_Gen2_C
+0.4,Megalodon,2,4,100%,100%,70%,40%
+0.2,Coelacanth,3,5,100%,100%,100%,75%,65%
+0.6,Ichthyosaurus,2,4,100%,100%,75%,37.5%
+0.1,Eurypterid,2,3,100%,100%,50%
+0.05,Anglerfish,3,100%,100%,100%
+0.2,Cnidaria,3,5,100%,100%,100%,70%,35%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.2,Dunkleosteus,100%
+0.1,Electrophorus,2,4,100%,100%,50%,20%
+1,Liopleurodon,100%
+0.1,Ammonite,100%
+DinoSpawnEntriesOceanWaterDeep_Special1_Gen2_C
+1,Mosasaurus,100%
+1,Plesiosaur,2,100%,100%
+0.4,Leedsichthys,100%
+0.7,Tusoteuthis,100%
+DinoSpawnEntriesQuetz_Gen2_C
+1,Quetzal,100%
+DinoSpawnEntriesQuetz_Rockwell_Gen2_C
+1,R Quetzal,100%
+DinoSpawnEntriesRiverLand_Easy_Gen2_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.075,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Megaloceros,2,4,100%,100%,75%,50%
+0.065,Tek Stryder,100%
+DinoSpawnEntriesRiverLand_Hard_Gen2_C
+0.05,Dodo,1,5,100%,70%,60%,25%,20%
+0.15,Parasaur,1,2,100%,50%
+0.6,Triceratops,1,2,100%,50%
+0.1,Brontosaurus,100%
+0.015,Pteranodon,1,2,100%,50%
+0.05,Dilophosaur,1,3,100%,67%,33%
+0.015,Oviraptor,100%
+0.1,Carbonemys,1,2,100%,50%
+0.01,Compy,1,5,100%,70%,65%,45%,30%
+0.08,Lystrosaurus,1,2,100%,50%
+0.0125,Moschops,1,2,100%,75%
+0.15,Raptor,1,3,100%,70%,40%
+0.15,Megaloceros,2,4,100%,100%,75%,50%
+0.15,Tek Stryder,100%
+0.4,Gallimimus,1,2,100%,50%
+0.035,R Direwolf,2,4,100%,100%,80%,60%
+0.15,Doedicurus,100%
+DinoSpawnEntriesRiverLand_Medium_Gen2_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.5,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.075,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.3,Raptor,1,3,100%,70%,40%
+0.1,Megaloceros,2,4,100%,100%,75%,50%
+0.065,Tek Stryder,100%
+0.4,Gallimimus,1,2,100%,50%
+DinoSpawnEntriesRockwellGiga_C
+1,R Giganotosaurus,100%
+DinoSpawnEntriesSpace_Gen2_C
+1,Astrodelphis,1,3,100%,75%,50%
+0.075,Astrocetus,100%
+0.25,Voidwyrm,100%
+0.35,Seeker,1,3,100%,80%,60%
+DinoSpawnEntriesTekWyvern_C
+0.33,Voidwyrm,100%
+DinoSpawnEntriesTrenchTek_C
+0.125,Scout,1,3,100%,66.7%,33.3%
+0.125,Tek Stryder,100%
+0.125,Defense Unit,100%
+0.125,Enforcer,100%
+DinoSpawnEntriesWaterSpillways_Aquatic_C
+0.425,Coelacanth,1,5,100%,70%,60%,25%,20%
+0.125,Sabertooth Salmon,1,3,100%,60%,30%
+0.1,Trilobite,1,2,100%,50%
+0.125,Piranha,1,3,100%,67%,33%
+0.15,Hesperornis,1,3,100%,80%,60%
+0.085,Otter,1,3,100%,70%,40%
+0.09,Diplocaulus,100%
+0.09,Dimetrodon,100%
+DinoSpawnEntriesWaterSpillways_Aquatic_Hard_C
+0.425,Coelacanth,1,5,100%,70%,60%,25%,20%
+0.125,Sabertooth Salmon,1,3,100%,60%,30%
+0.1,Trilobite,1,2,100%,50%
+0.125,Piranha,1,3,100%,67%,33%
+0.15,Hesperornis,1,3,100%,80%,60%
+0.085,Otter,1,3,100%,70%,40%
+0.09,Diplocaulus,100%
+0.09,Dimetrodon,100%
+0.04,Baryonyx,100%
+0.049,Spino,100%
+0.15,Sarco,100%
+DinoSpawnEntriesWaterSpillways_Aquatic_Lake_C
+0.425,Coelacanth,1,5,100%,70%,60%,25%,20%
+0.125,Sabertooth Salmon,1,3,100%,60%,30%
+0.1,Trilobite,1,2,100%,50%
+0.125,Piranha,1,3,100%,67%,33%
+0.15,Hesperornis,1,3,100%,80%,60%
+0.085,Otter,1,3,100%,70%,40%
+0.09,Diplocaulus,100%
+0.09,Dimetrodon,100%
+0.15,Sarco,100%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_Corruption_Gen2_C
+0.42,Araneo,1,3,100%,66.7%,33.3%
+1.2,Macrophage,1,2,100%,33.3%
+0.2,Arthropluera,1,3,100%,66.6%,33.3%
+0.125,Noglin,100%
+0.085,Basilisk,100%
+0.2,Seeker,1,3,100%,66%,33%
+0.35,Titanoboa,100%
+0.4,Mantis,100%
+0.125,R Reaper King,100%
+0.15,Meganeura,1,4,100%,50%,30%,10%
+1,Titanomyrma Drone,1,3,100%,30%,10%
+Titanomyrma Soldier,50%
+DinoSpawnEntries_EdenSharkTank_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.015,Karkinos,100%
+0.05,Parakeet Fish School,1,3,100%,40%,10%
+DinoSpawnEntries_GardensLake_Gen2_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,R Brontosaurus,100%
+0.075,Pteranodon,1,2,100%,50%
+0.2,R Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,R Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Megaloceros,2,4,100%,100%,75%,50%
+0.03,Tek Stryder,100%
+DinoSpawnEntries_GardensLake_Water_Gen2_C
+0.6,Coelacanth,1,4,100%,50%,30%,10%
+0.25,Eurypterid,1,4,100%,50%,30%,10%
+0.35,Leech,1,3,100%,50%,30%
+Diseased Leech,10%
+1,Piranha,1,4,100%,50%,30%,10%
+0.6,Trilobite,1,4,100%,50%,30%,10%
+0.15,Baryonyx,100%
+0.1,Diplocaulus,100%
+0.1,Spino,100%
+DinoSpawnEntries_GardensSwamp_Water_Gen2_C
+0.6,Coelacanth,1,4,100%,50%,30%,10%
+0.25,Eurypterid,1,4,100%,50%,30%,10%
+0.35,Leech,1,3,100%,50%,30%
+Diseased Leech,10%
+1,Piranha,1,4,100%,50%,30%,10%
+0.6,Trilobite,1,4,100%,50%,30%,10%
+0.15,Kaprosuchus,100%
+0.1,Diplocaulus,100%
+0.4,Beelzebufo,1,2,100%,40%
+0.05,Lamprey,100%
+0.15,Sarco,100%
+DinoSpawnEntries_GardensWater_Gen2_C
+0.6,Coelacanth,1,4,100%,50%,30%,10%
+0.25,Eurypterid,1,4,100%,50%,30%,10%
+0.35,Leech,1,3,100%,50%,30%
+Diseased Leech,10%
+1,Piranha,1,4,100%,50%,30%,10%
+0.6,Trilobite,1,4,100%,50%,30%,10%
+0.15,Kaprosuchus,100%
+0.1,Diplocaulus,100%
+0.015,Spino,100%
+DinoSpawnEntries_ReaperQueen_Gen2_C
+1,R Reaper Queen,100%
+DinoSpawnEntries_Summoner_Gen2_C
+0.25,Summoner,100%
+
+Lost Island
+AB_DinoSpawnEntries_BioCave_C
+0.07,Aberrant Carnotaurus,100%
+0.06,Aberrant Meganeura,1,2,100%,66%
+0.05,Aberrant Arthropluera,1,2,100%,50%
+0.07,Aberrant Raptor,1,3,100%,75%,50%
+0.1,Ravager,1,3,100%,75%,50%
+0.08,Glowtail,1,2,100%,75%
+0.08,Aberrant Pulmonoscorpius,1,2,100%,75%
+0.005,Seeker,100%
+DinoSpawnEntriesArcha_C
+1,Archaeopteryx,100%
+DinoSpawnEntriesBadlands_LostIsland_C
+0.1,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.04,Terror Bird,1,2,100%,75%
+0.1,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.1,Vulture,1,3,100%,75%,50%
+0.035,Lymantria,1,2,100%,60%
+0.02,Morellatops,1,2,100%,60%
+0.08,Amargasaurus,1,2,100%,75%
+0.03,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.055,Carnotaurus,1,2,100%,75%
+0.04,Arthropluera,1,2,100%,75%
+0.035,Ankylosaurus,1,2,100%,75%
+0.06,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,75%
+0.03,Rock Elemental,100%
+0.025,Troodon,3,4,100%,100%,100%,50%
+1,Thylacoleo,100%
+0.028,Daeodon,1,4,100%,55%,0%,0%
+0.05,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesBeach_LostIsland_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCanyons_LostIsland_C
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.1,Terror Bird,1,2,100%,75%
+0.06,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.075,Sinomacrops,1,2,100%,75%
+0.1,Doedicurus,1,2,100%,75%
+0.067,Direwolf,100%
+0.1,Titanoboa,1,2,100%,75%
+0.1,Oil Jug Bug,100%
+Water Jug Bug,100%
+0.06,Morellatops,1,2,100%,75%
+0.022,Purlovia,100%
+0.029,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesCave2,LowSpiderScorp_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+1,Onyc,1,3,100%,75%,50%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave2,LowSpiderScorp_C_C
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave2_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesCave_C3_2_C
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave_Lost_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave_bats_C
+0.33,Onyc,3,4,100%,75%,100%,100%
+DinoSpawnEntriesDesertMountain_LostIsland_C
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.08,Thorny Dragon,1,4,100%,75%,66.7%,33.3%
+0.15,Sabertooth,1,2,100%,75%
+0.125,Carnotaurus,1,2,100%,75%
+0.125,Argentavis,1,2,100%,25%
+0.0125,Tapejara,100%
+0.06,Ankylosaurus,1,2,100%,60%
+0.06,Lymantria,1,2,100%,66.7%
+0.1,Vulture,1,2,100%,60%
+0.1,Rock Elemental,100%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.025,Kentrosaurus,1,3,100%,70%,45%
+0.014,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.032,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesDesertOasis_LostIsland_C
+0.065,Raptor,1,2,100%,75%
+0.05,Lymantria,1,2,100%,66.7%
+0.085,Procoptodon,100%
+0.15,Lystrosaurus,1,3,100%,90%,80%
+0.15,Morellatops,1,2,100%,60%
+0.15,Paraceratherium,100%
+0.15,Gallimimus,100%
+0.25,Jerboa,2,4,100%,100%,75%,50%
+0.15,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.07,Moschops,1,2,100%,75%
+0.043,Pegomastax,1,3,100%,85%,75%
+0.025,Ovis,100%
+0.025,Iguanodon,100%
+DinoSpawnEntriesDunes_LostIsland_C
+0.2,Titanomyrma Drone,1,2,100%,75%
+Titanomyrma Soldier,50%
+0.15,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.15,Vulture,2,4,100%,100%,50%,25%
+0.08,Arthropluera,1,2,100%,33.3%
+0.1,Titanoboa,1,2,100%,25%
+0.035,Mantis,2,3,100%,100%,50%
+0.04,Dung Beetle,1,2,100%,60%
+0.15,Oil Jug Bug,100%
+Water Jug Bug,100%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,Giganotosaurus,100%
+DinoSpawnEntriesGrassland_LostIsland_1_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.1,Gallimimus,2,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.05,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.125,Equus,1,4,100%,80%,60%,45%
+0.225,Brontosaurus,1,3,100%,66.7%,33.3%
+DinoSpawnEntriesGrassland_LostIsland_2_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.125,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesGrassland_LostIsland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.125,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.035,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.05,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesGreenDesert_LostIsland_C
+0.075,Oil Jug Bug,1,3,100%,75%,50%
+0.075,Water Jug Bug,1,3,100%,75%,50%
+0.07,Terror Bird,1,3,100%,75%,50%
+0.05,Lymantria,1,2,100%,66.7%
+0.07,Doedicurus,1,2,100%,60%
+0.03,Paraceratherium,100%
+0.06,Gallimimus,100%
+0.15,Titanomyrma Drone,1,3,100%,90%,80%
+Titanomyrma Soldier,0,2,70%,60%
+0.09,Morellatops,1,2,100%,60%
+0.06,Parasaur,1,2,100%,60%
+0.06,Lystrosaurus,1,2,100%,60%
+0.04,Ankylosaurus,1,2,100%,60%
+0.06,Direwolf,100%
+0.04,Procoptodon,1,2,100%,33%
+0.04,Thorny Dragon,1,2,100%,60%
+0.01,Rock Elemental,100%
+0.17,Jerboa,2,4,100%,100%,75%,50%
+0.0125,Archaeopteryx,1,2,100%,50%
+0.028,Pegomastax,1,3,100%,85%,75%
+0.036,Microraptor,3,5,100%,100%,100%,70%,40%
+0.024,Equus,1,4,100%,80%,60%,45%
+0.03,Daeodon,2,4,100%,100%,70%,60%
+0.01,Megatherium,1,2,100%,50%
+DinoSpawnEntriesJungle_LostIsland_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+0.08,Sinomacrops,100%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesMonsterIsland_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMonsterIsland_LostIsland_2_C
+0.05,Raptor,2,4,100%,100%,66.6%,33.3%
+0.15,Sabertooth,1,3,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.1,Carnotaurus,1,2,100%,66.6%
+DinoSpawnEntriesMountain1_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesMountain_VeryHard_LostIsland_C
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.2,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.1,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.3,Snow Owl,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.035,Allosaurus,3,100%,100%,100%
+0.015,Direwolf,1,6,100%,90%,80%,70%,60%,50%
+0.015,Yutyrannus,100%
+Carnotaurus,1,3,100%,80%,80%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesPenguins_C
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoods_LostIsland_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.065,Dinopithecus,2,6,100%,100%,60%,20%,15%,5%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesRex_C
+1,Rex,100%
+DinoSpawnEntriesSnowCave_Lost_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.03,Purlovia,100%
+DinoSpawnEntriesSnowMountain_PGM_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.05,Rex,100%
+0.0175,Megalosaurus,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,3,100%,30%,10%
+0.0275,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+DinoSpawnEntriesSnowShoreline_PGM_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.05,Rex,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,3,100%,30%,10%
+DinoSpawnEntriesSnow_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSnow_LostIsland_C
+0.15,Direwolf,2,5,100%,100%,80%,50%,30%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,1,2,100%,70%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.0125,Ovis,100%
+0.0725,Daeodon,1,4,100%,80%,60%,40%
+0.04,Megatherium,1,2,100%,50%
+0.0125,Yutyrannus,30%
+0.0125,Dire Bear,0,2,60%,30%
+0.075,Managarmr,80%
+1,Argentavis,100%
+0.025,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Amargasaurus,1,2,100%,55%
+DinoSpawnEntriesSpider_C
+0.25,Araneo,1,2,100%,50%
+DinoSpawnEntriesSwampCave_C
+0.25,Meganeura,1,3,100%,80%,60%
+0.25,Araneo,1,2,100%,50%
+0.25,Arthropluera,1,2,100%,50%
+0.07,Achatina,2,4,100%,100%,75%,50%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.15,Titanoboa,100%
+DinoSpawnEntriesSwampSmall_LostIsland_C
+0.4,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.3,Meganeura,4,100%,100%,100%,100%
+0.3,Meganeura,4,100%,100%,100%,100%
+0.15,Sinomacrops,100%
+0.1,Paraceratherium,100%
+0.2,Titanoboa,100%
+0.075,Achatina,100%
+0.15,Dung Beetle,100%
+0.065,Moschops,100%
+0.45,Stegosaurus,1,3,100%,60%,20%
+0.0015,Diplodocus,100%
+DinoSpawnEntriesSwampWater_LostIsland_C
+1,Piranha,3,5,100%,100%,100%,50%,25%
+1,Coelacanth,2,3,100%,100%,50%
+1,Leech,100%
+1,Kaprosuchus,100%
+1,Sarco,100%
+1,Baryonyx,100%
+1,Beelzebufo,100%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesSwamp_LostIsland_C
+0.4,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.3,Meganeura,4,100%,100%,100%,100%
+0.3,Meganeura,4,100%,100%,100%,100%
+0.15,Sinomacrops,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.2,Titanoboa,100%
+0.35,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.125,Arthropluera,100%
+0.075,Achatina,100%
+0.15,Dung Beetle,100%
+0.065,Moschops,100%
+0.45,Stegosaurus,1,3,100%,60%,20%
+0.0015,Diplodocus,100%
+DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+DinoSpawnEntriesUnicorn_C
+1,Unicorn,100%
+DinoSpawnEntriesWater_C
+1,Coelacanth,1,5,100%,80%,60%,40%,20%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_DarkWaterAngler_C
+0.9,Anglerfish,1,2,100%,50%
+0.8,Electrophorus,2,6,100%,100%,70%,50%,40%,30%
+0.125,Dunkleosteus,100%
+1.2,Eurypterid,4,100%,100%,100%,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1.25,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_DarkWater_C
+1,Plesiosaur,2,100%,100%
+DinoSpawnEntries_DarkWater_Lio_C
+1,Liopleurodon,100%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_Gen2_Lost_C
+0.25,Morellatops,1,3,100%,66.7%,33.3%
+0.125,Kentrosaurus,1,3,100%,66.7%,33.3%
+0.225,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,10%,2.5%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.01,Rex,100%
+0.015,R Megatherium,100%
+0.03,Doedicurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.15,Hyaenodon,2,5,100%,100%,60%,30%,10%
+0.1,Gallimimus,1,4,100%,66.7%,33.4%,10%
+0.032,Diplodocus,100%
+0.1,Moschops,100%
+0.015,Allosaurus,1,3,100%,60%,30%
+0.075,Paraceratherium,1,2,100%,20%
+0.15,Ovis,1,4,100%,85%,40%,15%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.12,R Equus,1,4,100%,80%,60%,45%
+0.5,Maewing,1,3,100%,66.7%,33.3%
+DinoSpawnEntries_LostIsland_DarkWaterRares_C
+0.9,Anglerfish,1,2,100%,50%
+0.125,Dunkleosteus,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1,Parakeet Fish School,100%
+DinoSpawnEntries_Ocean_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.04,Leedsichthys,100%
+DinoSpawnEntries_Piranha_C
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+DinoSpawnEntries_Pond_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_Ragnarok_DeepWater_C
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_Ragnarok_Griffin_C
+0.33,Griffin,1,2,100%,10%
+DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.075,Otter,1,2,100%,35%
+DinoSpawnEntries_ShallowWater_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Sarco,100%
+0.1,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_ShallowWater_RW_C
+0.1,Sarco,100%
+DinoSpawnEntries_Steppe_C
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,0,3,20%,10%,5%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.0065,Ovis,4,8,100%,100%,100%,100%,50%,50%,50%,50%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntries_SwampWater03_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+DinoSpawnEntries_SwampWater04_C
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+DinoSpawnEntries_SwampWater2_C
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+DinoSpawnEntries_Volcano_LostIsland_C
+0.15,Pulmonoscorpius,3,5,100%,100%,100%,60%,40%
+0.15,Magmasaur,1,2,100%,50%
+0.15,Rex,1,2,100%,50%
+0.15,Megalania,1,2,100%,50%
+0.15,Basilisk,1,2,100%,50%
+0.15,Carnotaurus,1,2,100%,50%
+0.15,Allosaurus,1,2,100%,50%
+0.15,Arthropluera,100%
+0.15,Titanomyrma Drone,3,6,100%,100%,100%,60%,40%,20%
+0.15,Argentavis,2,3,100%,50%,100%
+0.15,Dimorphodon,2,3,100%,100%,50%
+0.15,Dimetrodon,1,2,100%,50%
+0.15,Purlovia,100%
+1,Stegosaurus,1,2,100%,65%
+0.425,Amargasaurus,1,3,100%,65%,30%
+1,Ankylosaurus,1,2,100%,65%
+1,Doedicurus,1,2,100%,65%
+1,Parasaur,1,2,100%,65%
+1,Gallimimus,1,3,100%,65%,25%
+1,Iguanodon,1,2,100%,65%
+1,Kentrosaurus,100%
+1,Lystrosaurus,100%
+1,Thorny Dragon,100%
+1,Oil Jug Bug,100%
+Water Jug Bug,50%
+DinoSpawnEntries_spinosaurus_C
+1,Spino,100%
+Gen1_Arctic_Ferox_DinoSpawnEntries_C
+1,Ferox,100%
+Gen1_Bog_Water_DinoSpawnEntries_C
+1,Piranha,3,5,100%,100%,100%,50%,25%
+1,Coelacanth,2,3,100%,100%,50%
+1,Leech,100%
+1,Kaprosuchus,100%
+1,Sarco,100%
+1,Baryonyx,100%
+1,Beelzebufo,100%
+Gen1_OceanTurtle_DinoSpawnEntries_C
+1,Megachelon,100%
+Gen1_Volcano_Cave_DinoSpawnEntries_C
+0.15,Pulmonoscorpius,1,5,100%,80%,60%,40%,20%
+0.15,Onyc,1,5,100%,80%,60%,40%,20%
+0.15,Arthropluera,1,2,100%,50%
+0.15,Araneo,1,5,100%,80%,60%,40%,20%
+0.15,Magmasaur,50%
+0.15,X Rock Elemental,50%
+Gen1_Volcano_Magmasaur_DinoSpawnEntries_C
+0.15,Magmasaur,2,100%,100%
+LostIsland_IceWyvernEntries_C
+0.33,Ice Wyvern,100%
+Lost_DinoSpawnEntriesWyvernTrench_C
+0.15,Mantis,1,2,100%,60%
+0.15,Araneo,1,2,100%,60%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.065,Dung Beetle,1,2,100%,60%
+0.1,Arthropluera,1,2,100%,75%
+Lost_DinoSpawnEntries_Eel_C
+1,Cnidaria,3,4,100%,100%,100%,50%
+Lost_DinoSpawnEntries_Jellys_C
+1,Cnidaria,3,4,100%,100%,100%,50%
+SE_DinoSpawnEntriesRuinsCaveNoGolem_C
+0.15,Arthropluera,1,3,100%,66.7%,33.3%
+0.15,Mantis,1,2,100%,60%
+0.15,Onyc,1,3,100%,66.7%,33.3%
+0.15,Titanoboa,1,2,100%,75%
+0.07,Achatina,1,3,100%,70%,35%
+SE_DinoSpawnEntriesSandworm_C
+0.15,Deathworm,100%
+SE_DinoSpawnEntriesWater_C
+0.15,Coelacanth,1,3,100%,80%,70%
+0.0375,Kaprosuchus,1,2,100%,33%
+SE_DinoSpawnEntriesWyvern_C
+0.33,Fire Wyvern,100%
+0.33,Lightning Wyvern,100%
+0.33,Poison Wyvern,100%
+T_Ext_DinoSpawnEntriesSnow_Purlovia_2_C
+0.15,Direwolf,2,5,100%,100%,70%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,100%
+0.067,Woolly Rhino,1,2,100%,70%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,1,4,100%,70%,60%,30%
+0.04,Megatherium,1,2,100%,50%
+0.0125,Rex,20%
+0.0125,Dire Bear,70%
+T_Ext_DinoSpawnEntriesSnow_Purlovia_C
+0.15,Direwolf,2,5,100%,100%,70%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,100%
+0.067,Woolly Rhino,1,2,100%,70%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,1,4,100%,70%,60%,30%
+0.04,Megatherium,1,2,100%,50%
+0.0125,Rex,20%
+0.0125,Dire Bear,70%
+
+Fjordur
+AB_DinoSpawnEntries_BioCaveWater_C
+0.25,Aberrant Coelacanth,2,4,100%,100%,70%,40%
+0.25,Aberrant Piranha,2,4,100%,100%,75%,37.5%
+0.4,Aberrant Sabertooth   Salmon,3,5,100%,100%,100%,75%,65%
+0.1,Aberrant Sarco,100%
+0.049,Aberrant Spino,100%
+0.033,Aberrant Otter,1,2,100%,35%
+0.09,Karkinos,100%
+AB_DinoSpawnEntries_BioCave_C
+0.07,Aberrant Carnotaurus,100%
+0.06,Aberrant Meganeura,1,2,100%,66%
+0.05,Aberrant Arthropluera,1,2,100%,50%
+0.07,Aberrant Raptor,1,3,100%,75%,50%
+0.1,Ravager,1,3,100%,75%,50%
+0.08,Glowtail,1,2,100%,75%
+0.08,Aberrant Pulmonoscorpius,1,2,100%,75%
+0.005,Seeker,100%
+AB_DinoSpawnEntries_BioLumCave_C
+0.1,Seeker,100%
+0.15,Aberrant Titanoboa,100%
+0.05,Aberrant Pulmonoscorpius,1,2,100%,75%
+0.075,Aberrant Achatina,100%
+0.22,Glowbug,1,3,100%,50%,25%
+0.008,Aberrant Arthropluera,100%
+0.04,Aberrant Dung Beetle,100%
+AB_DinoSpawnEntries_ElementalChamber_C
+0.08,Glowbug,1,3,100%,66.7%,33.3%
+0.012,Aberrant Pulmonoscorpius,100%
+0.07,Seeker,1,3,100%,75%,50%
+0.07,Aberrant Carnotaurus,1,2,100%,50%
+0.07,Aberrant Arthropluera,1,2,100%,75%
+0.055,Aberrant Purlovia,1,2,100%,75%
+0.067,Rock Drake,1,2,100%,50%
+0.08,Aberrant Megalosaurus,1,2,100%,75%
+0.1,Aberrant Spino,100%
+0.1,Featherlight,100%
+0.04,Aberrant Dung Beetle,1,2,100%,75%
+AB_DinoSpawnEntries_RockDrake_C
+1,Rock Drake,100%
+AB_DinoSpawnEntries_TwitchFertileLand_C
+0.1,Aberrant Paraceratherium,100%
+0.075,Aberrant Stegosaurus,1,3,100%,66.7%,33.3%
+0.025,Aberrant Triceratops,1,3,100%,66.7%,33.3%
+0.085,Aberrant Raptor,1,4,100%,80%,60%,40%
+0.06,Aberrant Carnotaurus,100%
+0.07,Aberrant Moschops,1,2,100%,75%
+0.125,Aberrant Parasaur,1,3,100%,66.7%,33.3%
+0.032,Aberrant Diplodocus,100%
+0.425,Aberrant Dodo,1,5,100%,70%,60%,25%,20%
+0.15,Aberrant Meganeura,4,100%,100%,100%,100%
+0.085,Aberrant Iguanodon,100%
+0.0275,Aberrant Equus,1,4,100%,80%,60%,45%
+0.2,Aberrant Lystrosaurus,1,2,100%,50%
+0.15,Aberrant Pulmonoscorpius,1,3,100%,60%,30%
+0.26,Bulbdog,1,2,100%,50%
+0.22,Glowbug,1,3,100%,50%,25%
+0.09,Aberrant Carbonemys,100%
+0.085,Ravager,1,4,100%,80%,60%,40%
+0.09,Roll Rat,100%
+0.09,Aberrant Doedicurus,100%
+0.09,Aberrant Ovis,100%
+0.09,Aberrant Dire Bear,100%
+DinoSpawnEntriesArcha_C
+1,Archaeopteryx,100%
+DinoSpawnEntriesBeach_C
+0.425,Dodo,1,5,100%,70%,60%,25%,20%
+0.125,Parasaur,1,2,100%,50%
+0.1,Triceratops,1,2,100%,50%
+0.025,Brontosaurus,100%
+0.15,Pteranodon,1,2,100%,50%
+0.2,Dilophosaur,1,3,100%,67%,33%
+0.05,Oviraptor,100%
+0.22,Carbonemys,1,2,100%,50%
+0.065,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Lystrosaurus,1,2,100%,50%
+0.07,Moschops,1,2,100%,75%
+0.035,Pegomastax,1,3,100%,70%,40%
+0.1,Ichthyornis,2,4,100%,100%,75%,50%
+DinoSpawnEntriesBee_C
+1,Giant Queen Bee,100%
+DinoSpawnEntriesCave1_C
+0.2,Titanoboa,1,4,100%,75%,50%,25%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,100%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave5_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCave5_Tough_C
+0.2,Titanoboa,1,2,100%,75%
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+DinoSpawnEntriesCaveElectrophorus_C
+1,Electrophorus,100%
+DinoSpawnEntriesCaveIceWater_C
+0.8,Sabertooth Salmon,1,2,100%,50%
+0.2,Anglerfish,1,2,100%,50%
+DinoSpawnEntriesCaveMegalo_AB_C
+1,Aberrant Megalosaurus,100%
+DinoSpawnEntriesCaveMegalo_C
+0.25,Megalosaurus,100%
+DinoSpawnEntriesCaveWater_C
+1,Piranha,2,4,100%,100%,50%,25%
+0.25,Sarco,100%
+DinoSpawnEntriesCave_BatOnly_C
+1,Onyc,1,2,100%,75%
+DinoSpawnEntriesGardensMountain_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,R Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Thorny Dragon,100%
+0.0075,Gacha,100%
+0.035,R Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesGardens_RiversLand_Gen2_C
+0.035,R Brontosaurus,1,2,100%,30%
+0.15,Pteranodon,1,2,100%,50%
+0.025,Kentrosaurus,1,2,100%,50%
+0.15,Mantis,1,2,100%,60%
+0.005,R Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.085,R Dilophosaur,1,3,100%,70%,30%
+0.005,Seeker,100%
+0.1,Glowtail,100%
+0.08,Bulbdog,1,2,100%,75%
+0.05,Moschops,1,2,100%,75%
+0.045,Chalicotherium,100%
+0.025,Troodon,3,4,100%,100%,100%,50%
+0.2,Ichthyornis,100%
+0.8,Pachyrhinosaurus,1,3,100%,80%,20%
+0.5,R Carbonemys,100%
+0.065,Shadowmane,1,4,100%,70%,30%,10%
+0.1,Dung Beetle,1,3,100%,50%,25%
+DinoSpawnEntriesGigant_C
+1,Giganotosaurus,100%
+1,R Giganotosaurus,100%
+DinoSpawnEntriesGrassland_C
+0.125,Parasaur,1,3,100%,66.7%,33.3%
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.075,Stegosaurus,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,1,3,100%,66.7%,33.3%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.085,Raptor,1,4,100%,80%,60%,40%
+0.05,Rex,100%
+0.1,Phiomia,100%
+0.047,Carnotaurus,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.1,Meganeura,4,100%,100%,100%,100%
+0.025,Doedicurus,100%
+0.075,Pachy,1,2,100%,66.7%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.02,Terror Bird,3,100%,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.075,Pachyrhinosaurus,2,4,100%,100%,50%,25%
+0.0125,Ovis,100%
+0.04,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0275,Equus,1,4,100%,80%,60%,45%
+DinoSpawnEntriesIceCave_C
+0.42,Direwolf,1,3,100%,66.7%,33.3%
+0.25,Purlovia,1,2,100%,50%
+0.25,Polar Bear,1,2,100%,50%
+0.25,Yeti,100%
+DinoSpawnEntriesJungle_C
+0.1,Dodo,1,5,100%,80%,60%,40%,20%
+0.2,Parasaur,1,3,100%,60%,30%
+0.075,Triceratops,1,2,100%,60%
+0.025,Stegosaurus,1,2,100%,50%
+0.2,Dilophosaur,1,4,100%,75%,50%,25%
+0.13,Raptor,1,2,100%,50%
+0.075,Phiomia,1,2,100%,50%
+0.11,Carbonemys,1,2,100%,50%
+0.025,Carnotaurus,100%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.135,Compy,1,5,100%,70%,65%,45%,30%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.2,Meganeura,4,100%,100%,100%,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.03,Diplodocus,100%
+0.07,Mesopithecus,1,3,100%,50%,25%
+0.07,Pachy,1,2,100%,60%
+0.055,Oviraptor,100%
+0.125,Lystrosaurus,1,2,100%,50%
+0.02,Tapejara,100%
+0.015,Chalicotherium,1,3,100%,75%,25%
+0.05,Moschops,1,2,100%,75%
+0.045,Therizinosaur,100%
+0.045,Troodon,3,4,100%,100%,100%,50%
+0.085,Iguanodon,100%
+DinoSpawnEntriesMegalania_C
+1,Megalania,100%
+DinoSpawnEntriesMountain_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.15,Sabertooth,2,4,100%,100%,66.7%,33.3%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.06,Pachy,100%
+0.0075,Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+DinoSpawnEntriesMountain_Easy_Gen2_C
+0.3,Ankylosaurus,1,3,100%,75%,50%
+0.25,Stegosaurus,1,3,100%,75%,50%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.0125,R Direwolf,2,4,100%,100%,66.7%,33.3%
+0.01,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,Argentavis,1,3,100%,66.7%,33.3%
+0.036,R Daeodon,1,2,100%,25%
+0.25,Doedicurus,100%
+0.06,Pachy,100%
+0.025,R Procoptodon,100%
+0.015,Allosaurus,3,100%,100%,100%
+0.075,Kentrosaurus,1,3,100%,70%,45%
+0.11,Hyaenodon,1,6,100%,90%,80%,70%,60%,50%
+0.4,Mammoth,1,3,100%,75%,50%
+DinoSpawnEntriesMountain_Hard_Gen2_C
+0.075,Ankylosaurus,1,3,100%,75%,50%
+0.05,Stegosaurus,1,3,100%,75%,50%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.05,Raptor,3,6,100%,100%,100%,75%,50%,25%
+0.08,R Thylacoleo,1,2,100%,1.5%
+0.03,Rex,1,2,100%,25%
+0.15,Pulmonoscorpius,1,3,100%,60%,30%
+0.15,R Snow Owl,1,3,100%,66.7%,33.3%
+0.036,Carnotaurus,1,2,100%,25%
+0.075,Doedicurus,100%
+0.025,R Daeodon,100%
+0.0075,R Procoptodon,100%
+0.035,Allosaurus,3,100%,100%,100%
+0.075,Megaloceros,1,3,100%,70%,45%
+0.11,R Direwolf,1,6,100%,90%,80%,70%,60%,50%
+0.15,Mammoth,1,3,100%,75%,50%
+0.015,Yutyrannus,100%
+Carnotaurus,1,3,100%,80%,80%
+DinoSpawnEntriesOceanWaterDeep_Gen2_C
+0.4,Megalodon,2,4,100%,100%,70%,40%
+0.2,Coelacanth,3,5,100%,100%,100%,75%,65%
+0.6,Ichthyosaurus,2,4,100%,100%,75%,37.5%
+0.1,Eurypterid,2,3,100%,100%,50%
+0.05,Anglerfish,3,100%,100%,100%
+0.2,Cnidaria,3,5,100%,100%,100%,70%,35%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.2,Dunkleosteus,100%
+0.1,Electrophorus,2,4,100%,100%,50%,20%
+0.001,Liopleurodon,100%
+0.1,Ammonite,100%
+DinoSpawnEntriesPelican_C
+1,Pelagornis,100%
+DinoSpawnEntriesPenguins_C
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+0.2,Kairuku,3,5,100%,100%,100%,60%,40%
+DinoSpawnEntriesQuetz_C
+1,Quetzal,100%
+DinoSpawnEntriesRedwoodCave_C
+0.25,Meganeura,1,3,100%,80%,60%
+0.25,Araneo,1,2,100%,50%
+0.35,Dire Bear,1,2,100%,50%
+0.07,Achatina,2,4,100%,100%,75%,50%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.15,Titanoboa,100%
+DinoSpawnEntriesRedwoods_C
+0.15,Pteranodon,1,4,100%,70%,60%,25%
+0.05,Carnotaurus,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.08,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.03,Doedicurus,100%
+0.05,Paraceratherium,100%
+0.05,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.06,Terror Bird,3,100%,100%,100%
+0.033,Gigantopithecus,100%
+0.06,Dire Bear,100%
+0.1,Dimorphodon,1,3,100%,66.7%,33.3%
+0.075,Compy,1,5,100%,70%,65%,45%,30%
+0.12,Megaloceros,1,2,100%,50%
+0.025,Achatina,100%
+0.04,Troodon,3,4,100%,100%,100%,50%
+0.04,Pegomastax,1,3,100%,85%,75%
+0.025,Purlovia,100%
+0.03,Microraptor,3,5,100%,100%,100%,70%,40%
+0.0125,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSnow_C
+0.15,Direwolf,3,5,100%,100%,100%,60%,40%
+0.2,Megaloceros,1,2,100%,50%
+0.07,Ankylosaurus,2,100%,100%
+0.22,Mammoth,1,3,100%,60%,30%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Yutyrannus,100%
+Carnotaurus,3,100%,100%,100%
+0.15,Argentavis,1,2,100%,50%
+0.067,Woolly Rhino,1,2,100%,30%
+0.04,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.0725,Daeodon,2,4,100%,100%,70%,60%
+0.04,Megatherium,1,2,100%,50%
+DinoSpawnEntriesSwampCaveWater_C
+0.125,Leech,1,2,100%,65%
+Diseased Leech,9%
+DinoSpawnEntriesSwampCave_C
+0.25,Meganeura,1,3,100%,80%,60%
+0.25,Araneo,1,2,100%,50%
+0.25,Arthropluera,1,2,100%,50%
+0.07,Achatina,2,4,100%,100%,75%,50%
+0.2,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,2,100%,100%
+0.15,Titanoboa,100%
+DinoSpawnEntriesSwamp_C
+0.1,Dilophosaur,1,3,100%,75%,50%
+0.075,Phiomia,1,2,100%,50%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Meganeura,4,100%,100%,100%,100%
+0.15,Dimorphodon,1,3,100%,66.7%,33.3%
+0.1,Paraceratherium,100%
+0.15,Titanoboa,100%
+0.075,Achatina,100%
+DinoSpawnEntriesTinyCave_C
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+DinoSpawnEntriesTitano_C
+1,Titanosaur,100%
+DinoSpawnEntriesUnicorn_C
+1,Unicorn,100%
+DinoSpawnEntriesWaterSpillways_Aquatic_C
+0.425,Coelacanth,1,5,100%,70%,60%,25%,20%
+0.125,Sabertooth Salmon,1,3,100%,60%,30%
+0.1,Trilobite,1,2,100%,50%
+0.125,Piranha,1,3,100%,67%,33%
+0.15,Hesperornis,1,3,100%,80%,60%
+0.085,Otter,1,3,100%,70%,40%
+0.09,Diplocaulus,100%
+0.09,Dimetrodon,100%
+DinoSpawnEntriesWater_C
+1,Coelacanth,1,5,100%,80%,60%,40%,20%
+DinoSpawnEntries_Andrewsarchus_C
+1,Andrewsarchus,2,100%,100%
+DinoSpawnEntries_Beavers_C
+1,Castoroides,2,100%,100%
+DinoSpawnEntries_DarkWaterAngler_C
+0.9,Anglerfish,1,2,100%,50%
+0.8,Electrophorus,2,6,100%,100%,70%,50%,40%,30%
+0.125,Dunkleosteus,100%
+1.2,Eurypterid,4,100%,100%,100%,100%
+0.8,Ammonite,4,100%,100%,100%,100%
+1.25,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_DarkWater_Mosa_C
+1,Mosasaurus,100%
+DinoSpawnEntries_DarkWater_Tuso_C
+1,Tusoteuthis,100%
+DinoSpawnEntries_DeepWater_C
+1,Coelacanth,4,100%,100%,100%,100%
+0.28,Megalodon,100%
+0.19,Ichthyosaurus,1,3,100%,50%,50%
+0.24,Manta,1,3,100%,50%,50%
+0.35,Trilobite,5,100%,100%,100%,100%,100%
+0.5,Cnidaria,1,7,100%,85%,75%,65%,55%,45%,35%
+DinoSpawnEntries_Desmodus_C
+1,Desmodus,2,100%,100%
+DinoSpawnEntries_DungBeetle_C
+1,Dung Beetle,3,100%,100%,100%
+DinoSpawnEntries_EdenSnowOwl_C
+1,R Snow Owl,2,100%,100%
+DinoSpawnEntries_FallBiomeCave_C
+0.2,Equus,1,2,100%,75%
+0.13,Dilophosaur,1,2,100%,75%
+0.42,Dimorphodon,1,3,100%,66.7%,33.3%
+0.25,Dodo,1,2,100%,50%
+0.33,Dire Bear,1,2,100%,75%
+0.125,Lystrosaurus,100%
+DinoSpawnEntries_Fjordhawk_C
+1,Fjordhawk,2,100%,100%
+DinoSpawnEntries_FjordurRedwoodWater_C
+0.3,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.3,Otter,1,2,100%,35%
+DinoSpawnEntries_Gachas_C
+1,Gacha,2,100%,100%
+DinoSpawnEntries_Gasbags_C
+1,Gasbags,1,3,100%,20%,10%
+DinoSpawnEntries_Griffin_C
+1,Griffin,2,100%,100%
+DinoSpawnEntries_InlandWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.33,Piranha,2,4,100%,100%,75%,37.5%
+0.255,Piranha,100%
+0.049,Spino,100%
+0.049,Baryonyx,100%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+0.033,Otter,1,2,100%,35%
+DinoSpawnEntries_Maewing_C
+1,Maewing,1,3,100%,50%,30%
+DinoSpawnEntries_OceanCaveHard_C
+0.3,Megalodon,100%
+0.2,Dunkleosteus,100%
+0.33,Anglerfish,1,2,100%,50%
+0.3,Manta,1,2,100%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.38,Piranha,5,100%,100%,100%,100%,100%
+0.35,Eurypterid,1,2,100%,50%
+1,Cnidaria,100%
+0.6,Electrophorus,2,100%,100%
+DinoSpawnEntries_Ocean_C
+0.385,Megalodon,100%
+1,Coelacanth,4,100%,100%,100%,100%
+0.33,Ichthyosaurus,1,3,100%,50%,50%
+0.3,Manta,1,3,100%,50%,50%
+0.38,Trilobite,5,100%,100%,100%,100%,100%
+0.075,Basilosaurus,100%
+Manta,9,100%,100%,100%,100%,100%,100%,100%,100%,100%
+0.04,Leedsichthys,100%
+DinoSpawnEntries_ShallowWater_C
+1,Coelacanth,2,4,100%,100%,60%,30%
+0.1,Sarco,100%
+0.1,Piranha,2,3,100%,100%,50%
+0.1,Hesperornis,1,4,100%,75%,50%,30%
+DinoSpawnEntries_SnowOwl_C
+1,Snow Owl,2,100%,100%
+Ext_DinoSpawnEntriesSnow_C
+0.15,Direwolf,1,5,100%,80%,70%,30%,10%
+0.3,Megaloceros,1,2,100%,50%
+0.1,Ankylosaurus,2,100%,100%
+0.25,Mammoth,1,3,100%,80%,60%
+0.07,Sabertooth,1,2,100%,50%
+0.04,Snow Owl,100%
+0.15,Woolly Rhino,1,2,100%,30%
+0.1,Chalicotherium,1,3,100%,75%,25%
+0.03,Purlovia,100%
+0.0125,Ovis,100%
+0.05,Daeodon,1,4,100%,40%,20%,10%
+0.04,Megatherium,1,2,100%,50%
+0.1,Brontosaurus,1,2,100%,20%
+Fjo_AB_DinoSpawnEntries_F6_BioCave_C
+0.25,Glowtail,1,2,100%,60%
+0.25,Shinehorn,1,2,100%,50%
+0.25,Bulbdog,1,2,100%,60%
+0.25,Featherlight,1,2,100%,60%
+Fjo_DinoSpawnEntriesErebor_C
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+Fjo_DinoSpawnEntriesThy_C
+1,Thylacoleo,100%
+1,R Thylacoleo,50%
+Fjo_DinoSpawnEntries_DarkWater_Karkinos_C
+1,Karkinos,100%
+Fjo_DinoSpawnEntries_DarkWater_Plesia_C
+1,Plesiosaur,100%
+Fjo_DinoSpawnEntries_Deinonychus_C
+0.075,Deinonychus,2,100%,100%
+Fjo_DinoSpawnEntries_Fornland_C
+0.025,Triceratops,1,3,100%,66.7%,33.3%
+0.1,Brontosaurus,0,3,20%,10%,5%
+0.14,Pteranodon,1,4,100%,70%,60%,25%
+0.032,Diplodocus,100%
+0.1,Gallimimus,2,100%,100%
+0.01,Allosaurus,3,100%,100%,100%
+0.0065,Ovis,4,8,100%,100%,100%,100%,50%,50%,50%,50%
+0.0275,Equus,1,4,100%,80%,60%,45%
+Fjo_DinoSpawn_Tropeo_C
+1,Tropeognathus,100%
+Fjo_Gen1_Bog_Springs_DinoSpawnEntries_C
+1,Dilophosaur,1,3,100%,70%,50%
+1,Dimorphodon,100%
+1,Moschops,100%
+1,Titanoboa,100%
+1,X Raptor,1,3,100%,70%,50%
+1,Dung Beetle,100%
+1,X Parasaur,1,2,100%,65%
+1,Pachyrhinosaurus,1,3,100%,65%,35%
+1,Kentrosaurus,1,2,100%,50%
+Fjordur_DinoSpawnEntriesMegalania_AB_C
+1,Aberrant Megalania,100%
+Fjordur_DinoSpawnEntriesTinyCave_Pulovia_C
+0.33,Onyc,1,4,100%,75%,50%,25%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Purlovia,1,2,100%,50%
+Fjordur_DinoSpawnEntriesWyvernTrench_C
+0.075,Titanoboa,1,2,100%,75%
+0.1,Vulture,1,2,100%,75%
+0.15,Mantis,1,2,100%,60%
+0.15,Araneo,1,2,100%,60%
+0.05,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.05,Thorny Dragon,1,2,100%,50%
+0.065,Dung Beetle,1,2,100%,60%
+0.1,Arthropluera,1,2,100%,75%
+Fjordur_DinoSpawnEntries_DireBearOnly_C
+0.13,Dire Bear,1,2,100%,75%
+Fjordur_DinoSpawnEntries_Moria_C
+0.13,Arthropluera,1,2,100%,75%
+0.42,Araneo,1,3,100%,66.7%,33.3%
+0.25,Pulmonoscorpius,1,2,100%,50%
+0.33,Onyc,1,2,100%,75%
+0.125,Dung Beetle,100%
+Fjordur_DinoSpawnEntries_RedwoodWater_C
+0.6,Coelacanth,2,4,100%,100%,70%,40%
+0.4,Sabertooth Salmon,3,5,100%,100%,100%,75%,65%
+0.5,Otter,1,2,100%,35%
+Fjordur_DinoSpawnEntries_SwampWater_C
+0.125,Leech,1,3,100%,85%,65%
+Diseased Leech,9%
+0.25,Coelacanth,2,4,100%,100%,70%,40%
+0.25,Piranha,2,4,100%,100%,75%,37.5%
+0.2,Beelzebufo,100%
+0.1,Sarco,100%
+0.08,Kaprosuchus,1,2,100%,45%
+0.09,Dimetrodon,100%
+0.09,Diplocaulus,100%
+0.04,Baryonyx,100%
+0.04,Spino,100%
+Fjordur_DinoSpawnEntries_TrilobiteRiver_C
+0.1,Otter,1,2,100%,35%
+0.9,Trilobite,5,100%,100%,100%,100%,100%
+Fjordur_FireWyvernEntries_C
+0.33,Fire Wyvern,100%
+Fjordur_IceWyvernEntries_C
+0.33,Ice Wyvern,100%
+Fjordur_LightingWyvernEntries_C
+0.33,Lightning Wyvern,100%
+Fjordur_Magmasaur_Spawn_C
+0.15,Magmasaur,2,100%,100%
+Fjordur_PoisonWyvernEntries_C
+0.33,Poison Wyvern,100%
+Fjordur_Volcano_DinoSpawnEntries_C
+0.15,Pulmonoscorpius,3,5,100%,100%,100%,60%,40%
+0.15,Magmasaur,1,2,100%,50%
+0.15,X Rex,1,2,100%,50%
+0.15,Megalania,1,2,100%,50%
+0.15,Basilisk,1,2,100%,50%
+0.15,Carnotaurus,1,2,100%,50%
+0.15,X Allosaurus,1,2,100%,50%
+0.15,Arthropluera,100%
+0.15,Titanomyrma Drone,3,6,100%,100%,100%,60%,40%,20%
+0.15,Argentavis,2,3,100%,50%,100%
+0.15,Dimorphodon,2,3,100%,100%,50%
+0.15,Dimetrodon,1,2,100%,50%
+0.25,Velonasaur,1,2,100%,50%
+1,Stegosaurus,1,2,100%,65%
+1,X Triceratops,1,2,100%,65%
+1,X Ankylosaurus,1,2,100%,65%
+1,Doedicurus,1,2,100%,65%
+1,Parasaur,1,2,100%,65%
+1,Gallimimus,1,3,100%,65%,25%
+1,Iguanodon,1,2,100%,65%
+1,Kentrosaurus,100%
+1,Lystrosaurus,100%
+1,Thorny Dragon,100%
+1,Oil Jug Bug,100%
+Water Jug Bug,50%
+Gen1_Arctic_Cave_DinoSpawnEntries_C
+1,Ferox,100%
+1,Direwolf,100%
+1,Polar Bear,100%
+Gen1_Arctic_Ferox_DinoSpawnEntries_C
+1,Ferox,100%
+Gen1_Arctic_Forest_DinoSpawnEntries_C
+1,X Sabertooth,1,2,100%,50%
+1,Direwolf,1,4,100%,70%,50%,20%
+1,Dire Bear,100%
+1,Megatherium,100%
+1,X Argentavis,100%
+1,Daeodon,100%
+1,X Yutyrannus,100%
+1,Microraptor,1,4,100%,70%,50%,25%
+1,Mammoth,100%
+1,X Woolly Rhino,100%
+1,Megaloceros,1,2,100%,50%
+1,Chalicotherium,1,2,100%,50%
+1,Equus,1,4,100%,50%,50%,20%
+1,Gigantopithecus,1,2,100%,50%
+1,Dodo,2,5,100%,100%,70%,50%,25%
+1,Doedicurus,100%
+1,Ankylosaurus,100%
+1,Procoptodon,100%
+1,Ovis,1,3,100%,20%,10%
+1,Therizinosaur,100%
+Gen1_Arctic_Forest_Nice_DinoSpawnEntries_C
+1,Dire Bear,100%
+1,Megatherium,100%
+1,X Argentavis,100%
+1,Microraptor,1,4,100%,70%,50%,25%
+1,Mammoth,100%
+1,X Woolly Rhino,100%
+1,Megaloceros,1,2,100%,50%
+1,Equus,1,4,100%,50%,50%,20%
+1,Gigantopithecus,1,2,100%,50%
+1,Dodo,2,5,100%,100%,70%,50%,25%
+1,Doedicurus,100%
+1,Ankylosaurus,100%
+1,Procoptodon,100%
+1,Ovis,1,3,100%,20%,10%
+1,Therizinosaur,100%
+Gen1_Arctic_FrozenWater_DinoSpawnEntries_C
+1,Sabertooth Salmon,2,3,100%,100%,50%
+Gen1_Bog_Forest_DinoSpawnEntries_C
+1,X Tapejara,100%
+1,Meganeura,1,3,100%,70%,50%
+1,Titanomyrma Drone,3,100%,100%,100%
+Titanomyrma Soldier,100%
+1,Dilophosaur,1,3,100%,70%,50%
+1,Dimorphodon,100%
+1,Dimetrodon,100%
+1,Moschops,100%
+1,Mesopithecus,100%
+1,Pteranodon,100%
+1,Diplocaulus,100%
+1,Titanoboa,100%
+1,Terror Bird,1,2,100%,50%
+1,Daeodon,100%
+1,Dung Beetle,100%
+1,Pegomastax,100%
+1,Carbonemys,1,2,100%,65%
+1,Stegosaurus,1,2,100%,65%
+1,Iguanodon,1,2,100%,65%
+1,Pachyrhinosaurus,1,3,100%,65%,35%
+1,Beelzebufo,100%
+Gen1_Bog_Water_DinoSpawnEntries_C
+1,Piranha,3,5,100%,100%,100%,50%,25%
+1,Coelacanth,2,3,100%,100%,50%
+1,Leech,100%
+1,Kaprosuchus,100%
+1,Sarco,100%
+1,Baryonyx,100%
+1,Beelzebufo,100%
+Gen1_Lunar_CaveWater_DinoSpawnEntries_Cave_C
+1,X Sabertooth Salmon,2,5,100%,100%,50%,20%,5%
+1,Karkinos,100%
+0.1,Lamprey,2,3,100%,100%,85%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave1_C
+1,Shinehorn,1,2,100%,50%
+1,Ravager,1,3,100%,70%,50%
+1,Roll Rat,1,2,100%,40%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_Lunar_Cave_DinoSpawnEntries_Cave3_C
+1,Ravager,1,3,100%,70%,50%
+1,Featherlight,1,3,100%,60%,30%
+1,Glowbug,1,4,100%,65%,35%,15%
+Gen1_OceanDeep_DinoSpawnEntries_C
+1,Ammonite,1,3,100%,50%,25%
+1,Anglerfish,1,3,100%,50%,25%
+1,X Megalodon,1,2,100%,25%
+1,Electrophorus,1,4,100%,75%,50%,25%
+1,X Dunkleosteus,100%
+1,Eurypterid,1,4,100%,80%,60%,50%
+1,Parakeet Fish School,100%
+1,Cnidaria,100%
+Gen1_OceanLargerDinos_DinoSpawnEntries_C
+1,X Mosasaurus,100%
+1,Plesiosaur,100%
+1,Tusoteuthis,100%
+1,Leedsichthys,100%
+Gen1_OceanTurtle_DinoSpawnEntries_C
+1,Megachelon,100%
+Gen1_Ocean_CaveWater_DinoSpawnEntries_C
+1,Coelacanth,2,3,100%,100%,50%
+1,Sabertooth Salmon,2,3,100%,100%,50%
+1,Cnidaria,2,3,100%,100%,50%
+Gen1_Volcano_Cave_DinoSpawnEntries_C
+0.15,Pulmonoscorpius,1,5,100%,80%,60%,40%,20%
+0.15,Onyc,1,5,100%,80%,60%,40%,20%
+0.15,Arthropluera,1,2,100%,50%
+0.15,Araneo,1,5,100%,80%,60%,40%,20%
+0.15,Magmasaur,50%
+0.15,X Rock Elemental,50%
+SE_DinoSpawnEntriesWyvernTrench_C
+0.15,Titanoboa,1,2,100%,75%
+0.15,Mantis,1,2,100%,60%
+0.15,Araneo,1,2,100%,60%
+0.1,Pulmonoscorpius,1,3,100%,66.7%,33.3%
+0.065,Dung Beetle,1,2,100%,60%
+0.1,Arthropluera,1,2,100%,75%

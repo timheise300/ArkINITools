@@ -1,0 +1,1598 @@
+[
+  {
+    "CreatureName": "Achatina",
+    "NameTag": "Achatina",
+    "CreatureID": "Achatina_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Allosaurus",
+    "NameTag": "Allo",
+    "CreatureID": "Allo_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Ammonite",
+    "NameTag": "Ammonite",
+    "CreatureID": "Ammonite_Character_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Anglerfish",
+    "NameTag": "Angler",
+    "CreatureID": "Angler_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Ankylosaurus",
+    "NameTag": "Anky",
+    "CreatureID": "Ankylo_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Araneo",
+    "NameTag": "Spider",
+    "CreatureID": "SpiderS_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Archaeopteryx",
+    "NameTag": "Archa",
+    "CreatureID": "Archa_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Argentavis",
+    "NameTag": "Argent",
+    "CreatureID": "Argent_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Arthropluera",
+    "NameTag": "Arthro",
+    "CreatureID": "Arthro_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Baryonyx",
+    "NameTag": "Baryonyx",
+    "CreatureID": "Baryonyx_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Basilosaurus",
+    "NameTag": "Basilosaurus",
+    "CreatureID": "Basilosaurus_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Beelzebufo",
+    "NameTag": "Toad",
+    "CreatureID": "Toad_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Brontosaurus",
+    "NameTag": "Bronto",
+    "CreatureID": "Sauropod_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Carbonemys",
+    "NameTag": "Turtle",
+    "CreatureID": "Turtle_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Carnotaurus",
+    "NameTag": "Carno",
+    "CreatureID": "Carno_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Castoroides",
+    "NameTag": "Beaver",
+    "CreatureID": "Beaver_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Chalicotherium",
+    "NameTag": "Chalicotherium",
+    "CreatureID": "Chalico_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Cnidaria",
+    "NameTag": "Cnidaria",
+    "CreatureID": "Cnidaria_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Coelacanth",
+    "NameTag": "Coel",
+    "CreatureID": "Coel_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Compy",
+    "NameTag": "Compy",
+    "CreatureID": "Compy_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Daeodon",
+    "NameTag": "Daeodon",
+    "CreatureID": "Daeodon_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Dilophosaur",
+    "NameTag": "Dilo",
+    "CreatureID": "Dilo_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Dimetrodon",
+    "NameTag": "Dimetro",
+    "CreatureID": "Dimetro_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Dimorphodon",
+    "NameTag": "Dimorph",
+    "CreatureID": "Dimorph_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Diplocaulus",
+    "NameTag": "Diplocaulus",
+    "CreatureID": "Diplocaulus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Diplodocus",
+    "NameTag": "Diplo",
+    "CreatureID": "Diplodocus_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Dire Bear",
+    "NameTag": "Direbear",
+    "CreatureID": "Direbear_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Polar Bear",
+    "NameTag": "Polarbear",
+    "CreatureID": "Polar_Bear_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Direwolf",
+    "NameTag": "Direwolf",
+    "CreatureID": "Direwolf_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Diseased Leech",
+    "NameTag": "Leech",
+    "CreatureID": "Leech_Character_Diseased_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Dodo",
+    "NameTag": "Dodo",
+    "CreatureID": "Dodo_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Doedicurus",
+    "NameTag": "Doed",
+    "CreatureID": "Doed_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Dung Beetle",
+    "NameTag": "Beetle",
+    "CreatureID": "DungBeetle_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Dunkleosteus",
+    "NameTag": "Dunkle",
+    "CreatureID": "Dunkle_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Electrophorus",
+    "NameTag": "Eel",
+    "CreatureID": "Eel_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Equus",
+    "NameTag": "Equus",
+    "CreatureID": "Equus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Eurypterid",
+    "NameTag": "Euryp",
+    "CreatureID": "Euryp_Character_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Gallimimus",
+    "NameTag": "Galli",
+    "CreatureID": "Galli_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Giant Bee",
+    "NameTag": "Bee",
+    "CreatureID": "Bee_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Giganotosaurus",
+    "NameTag": "Gigant",
+    "CreatureID": "Gigant_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Gigantopithecus",
+    "NameTag": "Bigfoot",
+    "CreatureID": "Bigfoot_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Hesperornis",
+    "NameTag": "Hesperornis",
+    "CreatureID": "Hesperornis_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Hyaenodon",
+    "NameTag": "Hyaenodon",
+    "CreatureID": "Hyaenodon_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Ichthyornis",
+    "NameTag": "Ichthyornis",
+    "CreatureID": "Ichthyornis_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Ichthyosaurus",
+    "NameTag": "Dolphin",
+    "CreatureID": "Dolphin_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Iguanodon",
+    "NameTag": "Iguanodon",
+    "CreatureID": "Iguanodon_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Kairuku",
+    "NameTag": "Kairu",
+    "CreatureID": "Kairuku_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Kaprosuchus",
+    "NameTag": "Kaprosuchus",
+    "CreatureID": "Kaprosuchus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Kentrosaurus",
+    "NameTag": "Kentro",
+    "CreatureID": "Kentro_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Leech",
+    "NameTag": "Leech",
+    "CreatureID": "Leech_Character_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Leedsichthys",
+    "NameTag": "Leedsichthys",
+    "CreatureID": "Leedsichthys_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Liopleurodon",
+    "NameTag": "Liopleurodon",
+    "CreatureID": "Liopleurodon_Character_BP_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "Lystrosaurus",
+    "NameTag": "Lystro",
+    "CreatureID": "Lystro_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Mammoth",
+    "NameTag": "Mammoth",
+    "CreatureID": "Mammoth_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Manta",
+    "NameTag": "Manta",
+    "CreatureID": "Manta_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Megalania",
+    "NameTag": "Megalania",
+    "CreatureID": "Megalania_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Megaloceros",
+    "NameTag": "Stag",
+    "CreatureID": "Stag_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Megalodon",
+    "NameTag": "Mega",
+    "CreatureID": "Megalodon_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Megalosaurus",
+    "NameTag": "Megalosaurus",
+    "CreatureID": "Megalosaurus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Meganeura",
+    "NameTag": "Dragonfly",
+    "CreatureID": "Dragonfly_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Megatherium",
+    "NameTag": "Megatherium",
+    "CreatureID": "Megatherium_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Mesopithecus",
+    "NameTag": "Monkey",
+    "CreatureID": "Monkey_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Microraptor",
+    "NameTag": "Microraptor",
+    "CreatureID": "Microraptor_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Mosasaurus",
+    "NameTag": "Mosasaur",
+    "CreatureID": "Mosa_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Moschops",
+    "NameTag": "Moschops",
+    "CreatureID": "Moschops_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Onyc",
+    "NameTag": "Bat",
+    "CreatureID": "Bat_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Otter",
+    "NameTag": "Otter",
+    "CreatureID": "Otter_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Oviraptor",
+    "NameTag": "Ovi",
+    "CreatureID": "Oviraptor_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Ovis",
+    "NameTag": "Sheep",
+    "CreatureID": "Sheep_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Pachy",
+    "NameTag": "Pachy",
+    "CreatureID": "Pachy_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Pachyrhinosaurus",
+    "NameTag": "Pachyrhinosaurus",
+    "CreatureID": "Pachyrhino_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Paraceratherium",
+    "NameTag": "Paracer",
+    "CreatureID": "Paracer_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Parasaurolophus",
+    "NameTag": "Para",
+    "CreatureID": "Para_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Pegomastax",
+    "NameTag": "Pegomastax",
+    "CreatureID": "Pegomastax_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Pelagornis",
+    "NameTag": "Pela",
+    "CreatureID": "Pela_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Phiomia",
+    "NameTag": "Phiomia",
+    "CreatureID": "Phiomia_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Piranha",
+    "NameTag": "Piranha",
+    "CreatureID": "Piranha_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Plesiosaur",
+    "NameTag": "Plesiosaur",
+    "CreatureID": "Plesiosaur_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Procoptodon",
+    "NameTag": "Kangaroo",
+    "CreatureID": "Procoptodon_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Pteranodon",
+    "NameTag": "Ptera",
+    "CreatureID": "Ptero_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Pulmonoscorpius",
+    "NameTag": "Scorpion",
+    "CreatureID": "Scorpion_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Purlovia",
+    "NameTag": "Purlovia",
+    "CreatureID": "Purlovia_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Quetzalcoatlus",
+    "NameTag": "Quetz",
+    "CreatureID": "Quetz_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Raptor",
+    "NameTag": "Raptor",
+    "CreatureID": "Raptor_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Rex",
+    "NameTag": "Rex",
+    "CreatureID": "Rex_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Sabertooth",
+    "NameTag": "Sabertooth",
+    "CreatureID": "Saber_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Sabertooth Salmon",
+    "NameTag": "Salmon",
+    "CreatureID": "Salmon_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Sarco",
+    "NameTag": "Sarco",
+    "CreatureID": "Sarco_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Spino",
+    "NameTag": "Spino",
+    "CreatureID": "Spino_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Stegosaurus",
+    "NameTag": "Stego",
+    "CreatureID": "Stego_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Tapejara",
+    "NameTag": "Tapejara",
+    "CreatureID": "Tapejara_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Tek Parasaur",
+    "NameTag": "Para",
+    "CreatureID": "BionicPara_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Tek Quetzal",
+    "NameTag": "Quetz",
+    "CreatureID": "BionicQuetz_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Tek Raptor",
+    "NameTag": "Raptor",
+    "CreatureID": "BionicRaptor_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Tek Rex",
+    "NameTag": "Rex",
+    "CreatureID": "BionicRex_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Tek Stegosaurus",
+    "NameTag": "Stego",
+    "CreatureID": "BionicStego_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Terror Bird",
+    "NameTag": "TerrorBird",
+    "CreatureID": "TerrorBird_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Therizinosaur",
+    "NameTag": "Therizinosaurus",
+    "CreatureID": "Therizino_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Thylacoleo",
+    "NameTag": "Thylacoleo",
+    "CreatureID": "Thylacoleo_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Titanoboa",
+    "NameTag": "Titanboa",
+    "CreatureID": "BoaFrill_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Titanomyrma Drone",
+    "NameTag": "Ant",
+    "CreatureID": "Ant_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Titanomyrma Soldier",
+    "NameTag": "FlyingAnt",
+    "CreatureID": "FlyingAnt_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Titanosaur",
+    "NameTag": "Titan",
+    "CreatureID": "Titanosaur_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Triceratops",
+    "NameTag": "Trike",
+    "CreatureID": "Trike_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Trilobite",
+    "NameTag": "Trilobite",
+    "CreatureID": "Trilobite_Character_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Troodon",
+    "NameTag": "Troodon",
+    "CreatureID": "Troodon_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Tusoteuthis",
+    "NameTag": "Tusoteuthis",
+    "CreatureID": "Tusoteuthis_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Unicorn",
+    "NameTag": "Unicorn",
+    "CreatureID": "Equus_Character_BP_Unicorn_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "Woolly Rhino",
+    "NameTag": "Rhino",
+    "CreatureID": "Rhino_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Yeti",
+    "NameTag": "Bigfoot",
+    "CreatureID": "Yeti_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Yutyrannus",
+    "NameTag": "Yutyrannus",
+    "CreatureID": "Yutyrannus_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Deathworm",
+    "NameTag": "Deathworm",
+    "CreatureID": "Deathworm_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Jerboa",
+    "NameTag": "Jerboa",
+    "CreatureID": "Jerboa_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Oil Jug Bug",
+    "NameTag": "OilJugbug",
+    "CreatureID": "Jugbug_Oil_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Water Jug Bug",
+    "NameTag": "WaterJugbug",
+    "CreatureID": "Jugbug_Water_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Lymantria",
+    "NameTag": "Moth",
+    "CreatureID": "Moth_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Mantis",
+    "NameTag": "Mantis",
+    "CreatureID": "Mantis_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Morellatops",
+    "NameTag": "Camelsaurus",
+    "CreatureID": "Camelsaurus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Rock Elemental",
+    "NameTag": "RockElemental",
+    "CreatureID": "RockGolem_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Rubble Golem",
+    "NameTag": "RockElemental",
+    "CreatureID": "RubbleGolem_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Thorny Dragon",
+    "NameTag": "SpineyLizard",
+    "CreatureID": "SpineyLizard_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Vulture",
+    "NameTag": "Vulture",
+    "CreatureID": "Vulture_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Phoenix",
+    "NameTag": "Phoenix",
+    "CreatureID": "Phoenix_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Fire Wyvern",
+    "NameTag": "FireWyvern",
+    "CreatureID": "Wyvern_Character_BP_Fire_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Lightning Wyvern",
+    "NameTag": "LightningWyvern",
+    "CreatureID": "Wyvern_Character_BP_Lightning_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Poison Wyvern",
+    "NameTag": "PoisonWyvern",
+    "CreatureID": "Wyvern_Character_BP_Poison_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Griffin",
+    "NameTag": "Griffin",
+    "CreatureID": "Griffin_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Ice Wyvern",
+    "NameTag": "IceWyvern",
+    "CreatureID": "Ragnarok_Wyvern_Override_Ice_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Achatina",
+    "NameTag": "Achatina",
+    "CreatureID": "Achatina_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Anglerfish",
+    "NameTag": "Angler",
+    "CreatureID": "Angler_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Ankylosaurus",
+    "NameTag": "Anky",
+    "CreatureID": "Ankylo_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Araneo",
+    "NameTag": "Spider",
+    "CreatureID": "SpiderS_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Arthropluera",
+    "NameTag": "Arthro",
+    "CreatureID": "Arthro_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Baryonyx",
+    "NameTag": "Baryonyx",
+    "CreatureID": "Baryonyx_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Beelzebufo",
+    "NameTag": "Toad",
+    "CreatureID": "Toad_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Carbonemys",
+    "NameTag": "Turtle",
+    "CreatureID": "Turtle_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Carnotaurus",
+    "NameTag": "Carno",
+    "CreatureID": "Carno_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Cnidaria",
+    "NameTag": "Cnidaria",
+    "CreatureID": "Cnidaria_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Coelacanth",
+    "NameTag": "Coel",
+    "CreatureID": "Coel_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Dimetrodon",
+    "NameTag": "Dimetro",
+    "CreatureID": "Dimetro_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Dimorphodon",
+    "NameTag": "Dimorph",
+    "CreatureID": "Dimorph_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Diplocaulus",
+    "NameTag": "Diplocaulus",
+    "CreatureID": "Diplocaulus_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Diplodocus",
+    "NameTag": "Diplo",
+    "CreatureID": "Diplodocus_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Dire Bear",
+    "NameTag": "Direbear",
+    "CreatureID": "Direbear_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Dodo",
+    "NameTag": "Dodo",
+    "CreatureID": "Dodo_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Doedicurus",
+    "NameTag": "Doed",
+    "CreatureID": "Doed_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Dung Beetle",
+    "NameTag": "Beetle",
+    "CreatureID": "DungBeetle_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Electrophorus",
+    "NameTag": "Eel",
+    "CreatureID": "Eel_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Equus",
+    "NameTag": "Equus",
+    "CreatureID": "Equus_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Gigantopithecus",
+    "NameTag": "Bigfoot",
+    "CreatureID": "Bigfoot_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Iguanodon",
+    "NameTag": "Iguanodon",
+    "CreatureID": "Iguanodon_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Lystrosaurus",
+    "NameTag": "Lystro",
+    "CreatureID": "Lystro_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Manta",
+    "NameTag": "Manta",
+    "CreatureID": "Manta_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Megalania",
+    "NameTag": "Megalania",
+    "CreatureID": "Megalania_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Megalosaurus",
+    "NameTag": "Megalosaurus",
+    "CreatureID": "Megalosaurus_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Meganeura",
+    "NameTag": "Dragonfly",
+    "CreatureID": "Dragonfly_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Moschops",
+    "NameTag": "Moschops",
+    "CreatureID": "Moschops_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Otter",
+    "NameTag": "Otter",
+    "CreatureID": "Otter_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Ovis",
+    "NameTag": "Sheep",
+    "CreatureID": "Sheep_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Paraceratherium",
+    "NameTag": "Paracer",
+    "CreatureID": "Paracer_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Parasaur",
+    "NameTag": "Para",
+    "CreatureID": "Para_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Piranha",
+    "NameTag": "Piranha",
+    "CreatureID": "Piranha_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Pulmonoscorpius",
+    "NameTag": "Scorpion",
+    "CreatureID": "Scorpion_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Purlovia",
+    "NameTag": "Purlovia",
+    "CreatureID": "Purlovia_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Raptor",
+    "NameTag": "Raptor",
+    "CreatureID": "Raptor_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Sabertooth Salmon",
+    "NameTag": "Salmon",
+    "CreatureID": "Salmon_Character_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Sarco",
+    "NameTag": "Sarco",
+    "CreatureID": "Sarco_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Spino",
+    "NameTag": "Spino",
+    "CreatureID": "Spino_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Stegosaurus",
+    "NameTag": "Stego",
+    "CreatureID": "Stego_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Aberrant Titanoboa",
+    "NameTag": "Titanboa",
+    "CreatureID": "BoaFrill_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Aberrant Triceratops",
+    "NameTag": "Trike",
+    "CreatureID": "Trike_Character_BP_Aberrant_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Aberrant Trilobite",
+    "NameTag": "Trilobite",
+    "CreatureID": "Trilobite_Character_Aberrant_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Basilisk",
+    "NameTag": "Basilisk",
+    "CreatureID": "Basilisk_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Bulbdog",
+    "NameTag": "Pug",
+    "CreatureID": "LanternPug_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Featherlight",
+    "NameTag": "LanternBird",
+    "CreatureID": "LanternBird_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Glowbug",
+    "NameTag": "Lightbug",
+    "CreatureID": "Lightbug_Character_BaseBP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Glowtail",
+    "NameTag": "LanternLizard",
+    "CreatureID": "LanternLizard_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Karkinos",
+    "NameTag": "CaveCrab",
+    "CreatureID": "Crab_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Lamprey",
+    "NameTag": "Lamprey",
+    "CreatureID": "Lamprey_Character_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Nameless",
+    "NameTag": "Chupacabra",
+    "CreatureID": "ChupaCabra_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Ravager",
+    "NameTag": "CaveWolf",
+    "CreatureID": "CaveWolf_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Reaper Queen",
+    "NameTag": "Xenomorph",
+    "CreatureID": "Xenomorph_Character_BP_Female_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "Rock Drake",
+    "NameTag": "RockDrake",
+    "CreatureID": "RockDrake_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Roll Rat",
+    "NameTag": "MoleRat",
+    "CreatureID": "MoleRat_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Seeker",
+    "NameTag": "Seeker",
+    "CreatureID": "Pteroteuthis_Char_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Shinehorn",
+    "NameTag": "LanternGoat",
+    "CreatureID": "LanternGoat_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Defense Unit",
+    "NameTag": "EndTank",
+    "CreatureID": "Defender_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Enforcer",
+    "NameTag": "Enforcer",
+    "CreatureID": "Enforcer_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Gacha",
+    "NameTag": "Gacha",
+    "CreatureID": "Gacha_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Gasbags",
+    "NameTag": "GasBags",
+    "CreatureID": "GasBags_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Managarmr",
+    "NameTag": "Managarmr",
+    "CreatureID": "IceJumper_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Scout",
+    "NameTag": "Scout",
+    "CreatureID": "Scout_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Snow Owl",
+    "NameTag": "Owl",
+    "CreatureID": "Owl_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Velonasaur",
+    "NameTag": "Velonasaur",
+    "CreatureID": "Spindles_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Chalk Golem",
+    "NameTag": "RockElemental",
+    "CreatureID": "ChalkGolem_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Deinonychus",
+    "NameTag": "Deinonychus",
+    "CreatureID": "Deinonychus_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Ice Golem",
+    "NameTag": "RockElemental",
+    "CreatureID": "IceGolem_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Astrocetus",
+    "NameTag": "SpaceWhale",
+    "CreatureID": "SpaceWhale_Character_BP_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "Bloodstalker",
+    "NameTag": "Bloodstalker",
+    "CreatureID": "BogSpider_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Ferox (Large)",
+    "NameTag": "Bigly",
+    "CreatureID": "Shapeshifter_Large_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Ferox",
+    "NameTag": "Gremlin",
+    "CreatureID": "Shapeshifter_Small_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Insect Swarm",
+    "NameTag": "InsectSwarm",
+    "CreatureID": "InsectSwarmChar_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Magmasaur",
+    "NameTag": "LavaLizard",
+    "CreatureID": "Cherufe_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Megachelon",
+    "NameTag": "GiantTurtle",
+    "CreatureID": "GiantTurtle_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Parakeet Fish School",
+    "NameTag": "Swarm",
+    "CreatureID": "MicrobeSwarmChar_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Tek Triceratops",
+    "NameTag": "Trike",
+    "CreatureID": "BionicTrike_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Allosaurus",
+    "NameTag": "Allo",
+    "CreatureID": "Volcano_Allo_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Ankylosaurus",
+    "NameTag": "Anky",
+    "CreatureID": "Volcano_Ankylo_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Argentavis",
+    "NameTag": "Argent",
+    "CreatureID": "Snow_Argent_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Basilosaurus",
+    "NameTag": "Basilosaurus",
+    "CreatureID": "Ocean_Basilosaurus_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Dunkleosteus",
+    "NameTag": "Dunkle",
+    "CreatureID": "Ocean_Dunkle_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Ichthyosaurus",
+    "NameTag": "Dolphin",
+    "CreatureID": "Ocean_Dolphin_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Megalodon",
+    "NameTag": "Mega",
+    "CreatureID": "Ocean_Megalodon_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Mosasaurus",
+    "NameTag": "Mosasaur",
+    "CreatureID": "Ocean_Mosa_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Otter",
+    "NameTag": "Otter",
+    "CreatureID": "Snow_Otter_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "X Paraceratherium",
+    "NameTag": "Paracer",
+    "CreatureID": "Bog_Paracer_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Parasaur",
+    "NameTag": "Para",
+    "CreatureID": "Bog_Para_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "X Raptor",
+    "NameTag": "Raptor",
+    "CreatureID": "Bog_Raptor_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "X Rex",
+    "NameTag": "Rex",
+    "CreatureID": "Volcano_Rex_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Rock Elemental",
+    "NameTag": "RockElemental",
+    "CreatureID": "Volcano_Golem_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Sabertooth",
+    "NameTag": "Sabertooth",
+    "CreatureID": "Snow_Saber_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "X Sabertooth Salmon",
+    "NameTag": "Salmon",
+    "CreatureID": "Lunar_Salmon_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "X Spino",
+    "NameTag": "Spino",
+    "CreatureID": "Bog_Spino_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Tapejara",
+    "NameTag": "Tapejara",
+    "CreatureID": "Bog_Tapejara_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "X Triceratops",
+    "NameTag": "Trike",
+    "CreatureID": "Volcano_Trike_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Woolly Rhino",
+    "NameTag": "Rhino",
+    "CreatureID": "Snow_Rhino_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "X Yutyrannus",
+    "NameTag": "Yutyrannus",
+    "CreatureID": "Snow_Yutyrannus_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Blood Crystal Wyvern",
+    "NameTag": "BloodWyvern",
+    "CreatureID": "CrystalWyvern_Character_BP_Blood_C",
+    "MaxPercentage": 0.05
+  },
+  {
+    "CreatureName": "Ember Crystal Wyvern",
+    "NameTag": "EmberWyvern",
+    "CreatureID": "CrystalWyvern_Character_BP_Ember_C",
+    "MaxPercentage": 0.05
+  },
+  {
+    "CreatureName": "Giant Worker Bee",
+    "NameTag": "Bee",
+    "CreatureID": "HoneyBee_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Tropeognathus",
+    "NameTag": "Tropeognathus",
+    "CreatureID": "Tropeognathus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Tropical Crystal Wyvern",
+    "NameTag": "TropicalWyvern",
+    "CreatureID": "CrystalWyvern_Character_BP_WS_C",
+    "MaxPercentage": 0.05
+  },
+  {
+    "CreatureName": "Astrodelphis",
+    "NameTag": "Astrodelphis",
+    "CreatureID": "SpaceDolphin_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Maewing",
+    "NameTag": "Maewing",
+    "CreatureID": "MilkGlider_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Noglin",
+    "NameTag": "BrainSlug",
+    "CreatureID": "BrainSlug_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Shadowmane",
+    "NameTag": "LionfishLion",
+    "CreatureID": "LionfishLion_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Tek Stryder",
+    "NameTag": "TekStrider",
+    "CreatureID": "TekStrider_Character_BP_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "Voidwyrm",
+    "NameTag": "TekWyvern",
+    "CreatureID": "TekWyvern_Character_BP_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "R Allosaurus",
+    "NameTag": "Allo",
+    "CreatureID": "Allo_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Carnotaurus",
+    "NameTag": "Carno",
+    "CreatureID": "Carno_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Daeodon",
+    "NameTag": "Daeodon",
+    "CreatureID": "Daeodon_Character_BP_Eden_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "R Dilophosaur",
+    "NameTag": "Dilo",
+    "CreatureID": "Dilo_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "R Dire Bear",
+    "NameTag": "Direbear",
+    "CreatureID": "Direbear_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "R Direwolf",
+    "NameTag": "Direwolf",
+    "CreatureID": "Direwolf_Character_BP_Eden_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Equus",
+    "NameTag": "Equus",
+    "CreatureID": "Equus_Character_BP_Eden_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "R Gasbags",
+    "NameTag": "GasBags",
+    "CreatureID": "GasBags_Character_BP_Eden_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Giganotosaurus",
+    "NameTag": "Gigant",
+    "CreatureID": "Gigant_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "R Megatherium",
+    "NameTag": "Megatherium",
+    "CreatureID": "Megatherium_Character_BP_Eden_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "R Snow Owl",
+    "NameTag": "Owl",
+    "CreatureID": "Owl_Character_BP_Eden_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Parasaur",
+    "NameTag": "Para",
+    "CreatureID": "Para_Character_BP_Eden_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "R Procoptodon",
+    "NameTag": "Kangaroo",
+    "CreatureID": "Procoptodon_Character_BP_Eden_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Quetzal",
+    "NameTag": "Quetz",
+    "CreatureID": "Quetz_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "R Brontosaurus",
+    "NameTag": "Bronto",
+    "CreatureID": "Sauropod_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "R Velonasaur",
+    "NameTag": "Velonasaur",
+    "CreatureID": "Spindles_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Thylacoleo",
+    "NameTag": "Thylacoleo",
+    "CreatureID": "Thylacoleo_Character_BP_Eden_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "R Carbonemys",
+    "NameTag": "Turtle",
+    "CreatureID": "Turtle_Character_BP_Rockwell_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "R Reaper Queen",
+    "NameTag": "Xenomorph",
+    "CreatureID": "Xenomorph_Character_BP_Female_Gen2_C",
+    "MaxPercentage": 0.01
+  },
+  {
+    "CreatureName": "Summoner",
+    "NameTag": "Summoner",
+    "CreatureID": "Summoner_Character_BP_C",
+    "MaxPercentage": 0.1
+  },
+  {
+    "CreatureName": "Macrophage",
+    "NameTag": "Macrophage",
+    "CreatureID": "Macrophage_Swarm_Character_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Amargasaurus",
+    "NameTag": "Amarga",
+    "CreatureID": "Amargasaurus_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Dinopithecus",
+    "NameTag": "Dinopithecus",
+    "CreatureID": "Dinopithecus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Sinomacrops",
+    "NameTag": "Sinomacrops",
+    "CreatureID": "Sinomacrops_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Andrewsarchus",
+    "NameTag": "Andrewsarchus",
+    "CreatureID": "Andrewsarchus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Fjordhawk",
+    "NameTag": "Fjordhawk",
+    "CreatureID": "Fjordhawk_Character_BP_C",
+    "MaxPercentage": 0.3
+  },
+  {
+    "CreatureName": "Desmodus",
+    "NameTag": "Desmodus",
+    "CreatureID": "Desmodus_Character_BP_C",
+    "MaxPercentage": 0.2
+  },
+  {
+    "CreatureName": "Fenrir",
+    "NameTag": "Fenrir",
+    "CreatureID": "Fenrir_Character_BP_C",
+    "MaxPercentage": 0.05
+  }
+]

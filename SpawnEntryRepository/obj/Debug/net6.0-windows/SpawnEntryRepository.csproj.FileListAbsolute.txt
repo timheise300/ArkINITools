@@ -1,0 +1,12 @@
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\bin\Debug\net6.0-windows\SpawnEntryRepository.deps.json
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\bin\Debug\net6.0-windows\SpawnEntryRepository.dll
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\bin\Debug\net6.0-windows\SpawnEntryRepository.pdb
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.csproj.AssemblyReference.cache
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.AssemblyInfoInputs.cache
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.AssemblyInfo.cs
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.csproj.CoreCompileInputs.cache
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.dll
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\refint\SpawnEntryRepository.dll
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\SpawnEntryRepository.pdb
+C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\obj\Debug\net6.0-windows\ref\SpawnEntryRepository.dll

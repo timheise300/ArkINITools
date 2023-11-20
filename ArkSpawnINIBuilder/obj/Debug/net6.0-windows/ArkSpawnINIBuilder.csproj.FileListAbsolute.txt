@@ -1,0 +1,25 @@
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\ArkSpawnINIBuilder.exe
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\CreatureIDs.txt
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\SpawnEntries.txt
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\ArkSpawnINIBuilder.deps.json
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\ArkSpawnINIBuilder.runtimeconfig.json
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\ArkSpawnINIBuilder.dll
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\ArkSpawnINIBuilder.pdb
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\SpawnEntryRepository.dll
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\SpawnEntryRepository.pdb
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.csproj.AssemblyReference.cache
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.AssemblyInfoInputs.cache
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.AssemblyInfo.cs
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.csproj.CoreCompileInputs.cache
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.csproj.CopyComplete
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.dll
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\refint\ArkSpawnINIBuilder.dll
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.pdb
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ArkSpawnINIBuilder.genruntimeconfig.cache
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\obj\Debug\net6.0-windows\ref\ArkSpawnINIBuilder.dll
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\MissingCreatures.json
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\SpawnEntries - OLD.json
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\CreatureIDs.json
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\spawnEntries.json
+C:\Users\timhe\source\repos\ArkINITools\ArkSpawnINIBuilder\bin\Debug\net6.0-windows\TheHuntedCreatureIDs.json
