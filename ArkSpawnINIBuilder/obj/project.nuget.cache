@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QqG3Ix/MScOSzu0vYemHHKxdoSrCfBcNuQI5gz98MJCVIJC3w88XUaIefS2vrse0mrbPTlnzCR0ViedHxDrBqA==",
+  "dgSpecHash": "pDCBSMVvtiEDryB8302qWjad7LIeayVYO7pXa65955n5NDkYt3cXRlTJYsc7GNssHhYMLfDhOhxLlpmjrBYVBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\timhe\\source\\repos\\ArkINITools\\ArkSpawnINIBuilder\\ArkSpawnINIBuilder.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\DotNet\\ArkINITools\\ArkSpawnINIBuilder\\ArkSpawnINIBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

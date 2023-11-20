@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zE5rRlUv/G/WE7HsxnQiKJJq+UCP6w1zs8Wqij8XhEVSlwlvu2LJlk7gZXVgeRK2jpN9paOhxzbUWtOOFU3QJA==",
+  "dgSpecHash": "hX1wEvUGYKlPe8VhCRmqdFQdvzT5Q5Lgrv5Gf27O9ZTQIi4UfzkQ/FCFhBKBkwWmhkY0uKKIn/TAYXMaBBYE3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\timhe\\source\\repos\\ArkINITools\\SpawnEntryRepository\\SpawnEntryRepository.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\DotNet\\ArkINITools\\SpawnEntryRepository\\SpawnEntryRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

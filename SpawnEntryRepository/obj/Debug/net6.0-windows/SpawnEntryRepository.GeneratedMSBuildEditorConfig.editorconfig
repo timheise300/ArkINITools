@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpawnEntryRepository
-build_property.ProjectDir = C:\Users\timhe\source\repos\ArkINITools\SpawnEntryRepository\
+build_property.ProjectDir = D:\Projects\DotNet\ArkINITools\SpawnEntryRepository\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
