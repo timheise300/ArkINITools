@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArkSpawnINIBuilder/1.0.0": {
+        "dependencies": {
+          "SpawnEntryRepository": "1.0.0"
+        },
+        "runtime": {
+          "ArkSpawnINIBuilder.dll": {}
+        }
+      },
+      "SpawnEntryRepository/1.0.0": {
+        "runtime": {
+          "SpawnEntryRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArkSpawnINIBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpawnEntryRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

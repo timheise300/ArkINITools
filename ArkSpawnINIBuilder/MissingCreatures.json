@@ -1,0 +1,763 @@
+[
+  {
+    "CreatureName": "Griffin",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Mountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Unicorn",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Redwoods"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Vulture",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain",
+          "Jungle"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Mantis",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Lymantria",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Jerboa",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Mountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Morellatops",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain",
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Thorny Dragon",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain",
+          "LavaBeach"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Poison Wyvern",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Swamp"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Lightning Wyvern",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "GrasslandsUnderAreaSpawn",
+          "Monster"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Fire Wyvern",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Upper"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Bulbdog",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Beach"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Featherlight",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Jungle"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Shinehorn",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Glowbug",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland",
+          "Jungle",
+          "Beach"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Karkinos",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Swamp"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Ravager",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Jungle",
+          "Redwoods",
+          "GrasslandsUnderAreaSpawn"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Roll Rat",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Dunes",
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland",
+          "LavaBeach"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Lamprey",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SwampWater"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Rock Drake",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Monster",
+          "GrasslandsUnderAreaSpawn"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Basilisk",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Monster",
+          "GrasslandsUnderAreaSpawn"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Enforcer",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Redwoods"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Redwoods"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Gacha",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Mountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "R Gasbags",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Mountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Scout",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Mountain",
+          "Redwoods"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "R Velonasaur",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Mountain",
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Mountain",
+          "Grassland"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "R Snow Owl",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowyMountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Managarmr",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowyMountain"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "ArcticForest"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Deinonychus",
+    "MapLocations": [
+      {
+        "MapName": "Lost Island",
+        "Locations": [
+          "Canyons",
+          "VeryHard",
+          "Grassland"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Astrocetus",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Monster"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Volcano"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Bloodstalker",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SwampWater"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "BogSpring",
+          "BogForest"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Ferox",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Snow"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Ferox (Large)",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Snow"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Megachelon",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "CustomAnglerSpawner"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Parakeet Fish School",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "CustomAnglerSpawner"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Magmasaur",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Upper"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Insect Swarm",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Swamp"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Blood Crystal Wyvern",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Redwoods"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "GardensRiversLand"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Ember Crystal Wyvern",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "MountainHardGen2"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Tropical Crystal Wyvern",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesBeach"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "BogSprings"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Tropeognathus",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Mountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Astrodelphis",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Quetz"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "LunarCaveDino"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Maewing",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Jungle",
+          "SnowGrasslandsUnderAreaSpawn"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Noglin",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Redwoods",
+          "LavaBeach"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "GardensRiversLand"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Shadowmane",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Redwoods"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Tek Stryder",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain",
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Grassland"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Voidwyrm",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Upper"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Trench"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "R Reaper Queen",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "LavaBeach"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "   "
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Summoner",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowGrasslandsUnderAreaSpawn"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Amargasaurus",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowGrasslandsUnderAreaSpawn",
+          "Snow"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Mountain"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Dinopithecus",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowGrasslandsUnderAreaSpawn",
+          "Snow"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Redwoods"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Sinomacrops",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "Jungle",
+          "Redwoods"
+        ]
+      },
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "Grassland",
+          "Redwoods",
+          "TwitchFertileLand"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Desmodus",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "SnowGrasslandsUnderAreaSpawn"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Fjordhawk",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain",
+          "Redwoods"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Fenrir",
+    "MapLocations": [
+      {
+        "MapName": "Fjordur",
+        "Locations": [
+          "ArcticForest",
+          "ExtDinoSpawnEntriesSnow"
+        ]
+      }
+    ]
+  },
+  {
+    "CreatureName": "Andrewsarchus",
+    "MapLocations": [
+      {
+        "MapName": "The Center",
+        "Locations": [
+          "DinoSpawnEntriesMountain",
+          "SnowGrasslandsUnderAreaSpawn",
+          "SnowGrasslandsSpawn",
+          "DinoSpawnEntriesGrassland"
+        ]
+      }
+    ]
+  }
+]
